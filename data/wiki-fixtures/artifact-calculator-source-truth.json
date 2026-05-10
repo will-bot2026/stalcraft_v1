@@ -1,0 +1,1946 @@
+{
+  "purpose": "Manual STALCRAFT Wiki screenshot observations that UltimateBuild treats as source-truth fixtures for calculator parity. Keep raw internal calculations unrounded; compare display values at UI precision.",
+  "wikiVersion": "4.4.2",
+  "artifact": {
+    "id": "5rg1",
+    "name": "Cursed Rose"
+  },
+  "sourceImages": [
+    {
+      "screenshot": "img_1a60fd8c341a.jpg",
+      "path": "screenshots/redacted/img_1a60fd8c341a.jpg",
+      "panel": "artifact",
+      "level": 0,
+      "quality": 100,
+      "rarity": "rarity.unordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 11.6,
+        "Explosion protection": 8.9,
+        "Radiation": 1.13
+      }
+    },
+    {
+      "screenshot": "img_f87b8fe89398.jpg",
+      "path": "screenshots/redacted/img_f87b8fe89398.jpg",
+      "panel": "artifact",
+      "level": 5,
+      "quality": 100,
+      "rarity": "rarity.unordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 12.76,
+        "Explosion protection": 9.79,
+        "Radiation": 1.13
+      }
+    },
+    {
+      "screenshot": "img_3571952a35c6.jpg",
+      "path": "screenshots/redacted/img_3571952a35c6.jpg",
+      "panel": "artifact",
+      "level": 10,
+      "quality": 100,
+      "rarity": "rarity.unordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 13.92,
+        "Explosion protection": 10.68,
+        "Radiation": 1.13
+      }
+    },
+    {
+      "screenshot": "img_380bffcb78bc.jpg",
+      "path": "screenshots/redacted/img_380bffcb78bc.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 100,
+      "rarity": "rarity.unordinary",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 20.15,
+        "Explosion protection": 15.47,
+        "Radiation": 1.13,
+        "Stamina regeneration": "3.77%"
+      }
+    },
+    {
+      "screenshot": "img_2c8e510a4252.jpg",
+      "path": "screenshots/redacted/img_2c8e510a4252.jpg",
+      "panel": "artifact",
+      "level": 0,
+      "quality": 100,
+      "rarity": "rarity.ordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 11.6,
+        "Explosion protection": 8.9,
+        "Radiation": 1.25
+      }
+    },
+    {
+      "screenshot": "img_c9a0f740dca4.jpg",
+      "path": "screenshots/redacted/img_c9a0f740dca4.jpg",
+      "panel": "artifact",
+      "level": 0,
+      "quality": 115,
+      "rarity": "rarity.unordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 13.34,
+        "Explosion protection": 10.23,
+        "Radiation": 1.25
+      }
+    },
+    {
+      "screenshot": "img_d68d5f528fb9.jpg",
+      "path": "screenshots/redacted/img_d68d5f528fb9.jpg",
+      "panel": "artifact",
+      "level": 0,
+      "quality": 130,
+      "rarity": "rarity.special",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 15.08,
+        "Explosion protection": 11.57,
+        "Radiation": 1.25
+      }
+    },
+    {
+      "screenshot": "img_69b3f83fc8bc.jpg",
+      "path": "screenshots/redacted/img_69b3f83fc8bc.jpg",
+      "panel": "artifact",
+      "level": 0,
+      "quality": 145,
+      "rarity": "rarity.rare",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 16.82,
+        "Explosion protection": 12.9,
+        "Radiation": 1.25
+      }
+    },
+    {
+      "screenshot": "img_f7e777dded29.jpg",
+      "path": "screenshots/redacted/img_f7e777dded29.jpg",
+      "panel": "artifact",
+      "level": 0,
+      "quality": 160,
+      "rarity": "rarity.exclusive",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 18.56,
+        "Explosion protection": 14.24,
+        "Radiation": 1.25
+      }
+    },
+    {
+      "screenshot": "img_b65a8a9dc271.jpg",
+      "path": "screenshots/redacted/img_b65a8a9dc271.jpg",
+      "panel": "artifact",
+      "level": 0,
+      "quality": 175,
+      "rarity": "rarity.legendary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 20.3,
+        "Explosion protection": 15.58,
+        "Radiation": 1.25
+      }
+    },
+    {
+      "screenshot": "img_25cd934b07da.jpg",
+      "path": "screenshots/redacted/img_25cd934b07da.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 115,
+      "rarity": "rarity.unordinary",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 23.17,
+        "Explosion protection": 17.79,
+        "Radiation": 1.25,
+        "Stamina regeneration": "4.34%"
+      }
+    },
+    {
+      "screenshot": "img_591ef752e654.jpg",
+      "path": "screenshots/redacted/img_591ef752e654.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 130,
+      "rarity": "rarity.special",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 26.2,
+        "Explosion protection": 20.11,
+        "Radiation": 1.25,
+        "Stamina regeneration": "4.90%"
+      }
+    },
+    {
+      "screenshot": "img_7075c21a7277.jpg",
+      "path": "screenshots/redacted/img_7075c21a7277.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 145,
+      "rarity": "rarity.rare",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 29.22,
+        "Explosion protection": 22.43,
+        "Radiation": 1.25,
+        "Stamina regeneration": "5.47%"
+      }
+    },
+    {
+      "screenshot": "img_6fa75aa111d9.jpg",
+      "path": "screenshots/redacted/img_6fa75aa111d9.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 147,
+      "rarity": "rarity.exclusive",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 29.62,
+        "Explosion protection": 22.74,
+        "Radiation": 1.09,
+        "Stamina regeneration": "5.54%"
+      }
+    },
+    {
+      "screenshot": "img_a520c90c4e5f.jpg",
+      "path": "screenshots/redacted/img_a520c90c4e5f.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 160,
+      "rarity": "rarity.exclusive",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 32.24,
+        "Explosion protection": 24.75,
+        "Radiation": 1.25,
+        "Stamina regeneration": "6.03%"
+      }
+    },
+    {
+      "screenshot": "img_ca21dcf9af1d.jpg",
+      "path": "screenshots/redacted/img_ca21dcf9af1d.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 165,
+      "rarity": "rarity.legendary",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 33.25,
+        "Explosion protection": 25.53,
+        "Radiation": 1.13,
+        "Stamina regeneration": "6.22%"
+      }
+    },
+    {
+      "screenshot": "img_5b8779cecda2.jpg",
+      "path": "screenshots/redacted/img_5b8779cecda2.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 175,
+      "rarity": "rarity.legendary",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 35.26,
+        "Explosion protection": 27.07,
+        "Radiation": 1.25,
+        "Stamina regeneration": "6.60%"
+      }
+    },
+    {
+      "screenshot": "img_e98d3e29d3d4.jpg",
+      "path": "screenshots/redacted/img_e98d3e29d3d4.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 130,
+      "rarity": "rarity.special",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 26.2,
+        "Explosion protection": 20.11,
+        "Radiation": 1.25,
+        "Stamina regeneration": "4.90%"
+      }
+    },
+    {
+      "screenshot": "img_eec789d8469e.jpg",
+      "path": "screenshots/redacted/img_eec789d8469e.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 130,
+      "rarity": "rarity.rare",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 26.2,
+        "Explosion protection": 20.11,
+        "Radiation": 1.06,
+        "Stamina regeneration": "4.90%"
+      }
+    },
+    {
+      "screenshot": "img_70d3a5cbc1bd.jpg",
+      "path": "screenshots/redacted/img_70d3a5cbc1bd.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 145,
+      "rarity": "rarity.rare",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 29.22,
+        "Explosion protection": 22.43,
+        "Radiation": 1.25,
+        "Stamina regeneration": "5.47%"
+      }
+    },
+    {
+      "screenshot": "img_9f1654023955.jpg",
+      "path": "screenshots/redacted/img_9f1654023955.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 145,
+      "rarity": "rarity.exclusive",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 29.22,
+        "Explosion protection": 22.43,
+        "Radiation": 1.06,
+        "Stamina regeneration": "5.47%"
+      }
+    },
+    {
+      "screenshot": "img_91db57f38f76.jpg",
+      "path": "screenshots/redacted/img_91db57f38f76.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 160,
+      "rarity": "rarity.exclusive",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 32.24,
+        "Explosion protection": 24.75,
+        "Radiation": 1.25,
+        "Stamina regeneration": "6.03%"
+      }
+    },
+    {
+      "screenshot": "img_61ebd13de2e2.jpg",
+      "path": "screenshots/redacted/img_61ebd13de2e2.jpg",
+      "panel": "artifact",
+      "level": 15,
+      "quality": 160,
+      "rarity": "rarity.legendary",
+      "additionalStats": [
+        "Bullet resistance",
+        "Explosion protection",
+        "Stamina regeneration"
+      ],
+      "expectedStatsByDisplayName": {
+        "Bullet resistance": 32.24,
+        "Explosion protection": 24.75,
+        "Radiation": 1.06,
+        "Stamina regeneration": "6.03%"
+      }
+    },
+    {
+      "screenshot": "img_84ceb78c4e99.jpg",
+      "path": "screenshots/redacted/img_84ceb78c4e99.jpg",
+      "panel": "artifact",
+      "artifactName": "Snares",
+      "level": 0,
+      "quality": 100,
+      "rarity": "rarity.unordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Movement speed": "0.70%",
+        "Running speed": "0.95%",
+        "Laceration protection": 17.4,
+        "Biological infection": 0.56,
+        "Psy-emissions": -1.28
+      }
+    },
+    {
+      "screenshot": "img_94f65784a133.jpg",
+      "path": "screenshots/redacted/img_94f65784a133.jpg",
+      "panel": "artifact",
+      "artifactName": "Snares",
+      "level": 0,
+      "quality": 100,
+      "rarity": "rarity.ordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Movement speed": "0.70%",
+        "Running speed": "0.95%",
+        "Laceration protection": 17.4,
+        "Biological infection": 0.63,
+        "Psy-emissions": -1.28
+      }
+    },
+    {
+      "screenshot": "img_00d79409789e.jpg",
+      "path": "screenshots/redacted/img_00d79409789e.jpg",
+      "panel": "artifact",
+      "artifactName": "Snares",
+      "level": 0,
+      "quality": 115,
+      "rarity": "rarity.unordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Movement speed": "0.80%",
+        "Running speed": "1.09%",
+        "Laceration protection": 20.01,
+        "Biological infection": 0.63,
+        "Psy-emissions": -1.47
+      },
+      "calculationNotes": [
+        "Q115 values support quality scaling from hidden full-precision Q100 bases, but not from already-rounded Q100 display values.",
+        "Displayed Q100 movement 0.70 * 1.15 = 0.805 would half-up round to 0.81, but observed is 0.80; therefore Q100 display 0.70 is rounded from hidden raw <= about 0.699999.",
+        "Displayed Q100 biological 0.56 * 1.15 = 0.644 would round to 0.64, but observed is 0.63; hidden raw Q100 biological is likely about 0.548 rather than displayed 0.56.",
+        "Psy-emissions negative beneficial value scales by quality in magnitude: -1.28 displayed baseline -> observed -1.47, consistent with hidden raw -1.2783."
+      ]
+    },
+    {
+      "screenshot": "img_d5aa9ec62a4c.jpg",
+      "path": "screenshots/redacted/img_d5aa9ec62a4c.jpg",
+      "panel": "artifact",
+      "artifactName": "Snares",
+      "level": 0,
+      "quality": 115,
+      "rarity": "rarity.special",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Movement speed": "0.80%",
+        "Running speed": "1.09%",
+        "Laceration protection": 20.01,
+        "Biological infection": 0.53,
+        "Psy-emissions": -1.47
+      },
+      "calculationNotes": [
+        "At Q115 threshold, switching from Unordinary to Special leaves positives and Psy-emissions unchanged but lowers Biological infection from 0.63 to 0.53.",
+        "This supports threshold rarity behavior for Snares biological infection, analogous in structure to Cursed Rose radiation."
+      ]
+    },
+    {
+      "screenshot": "img_eab3916727a2.jpg",
+      "path": "screenshots/redacted/img_eab3916727a2.jpg",
+      "panel": "artifact",
+      "artifactName": "Snares",
+      "level": 0,
+      "quality": 130,
+      "rarity": "rarity.special",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Movement speed": "0.91%",
+        "Running speed": "1.23%",
+        "Laceration protection": 22.62,
+        "Biological infection": 0.63,
+        "Psy-emissions": -1.66
+      },
+      "calculationNotes": [
+        "At Q130 threshold, Snares Special keeps Biological infection at 0.63 while positives/beneficial stats scale from hidden full-precision bases.",
+        "Compared with Q130 Rare, positives and Psy-emissions remain unchanged; Biological infection is the rarity-sensitive harmful stat."
+      ]
+    },
+    {
+      "screenshot": "img_c7c1a0de2fe9.jpg",
+      "path": "screenshots/redacted/img_c7c1a0de2fe9.jpg",
+      "panel": "artifact",
+      "artifactName": "Snares",
+      "level": 0,
+      "quality": 130,
+      "rarity": "rarity.rare",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Movement speed": "0.91%",
+        "Running speed": "1.23%",
+        "Laceration protection": 22.62,
+        "Biological infection": 0.53,
+        "Psy-emissions": -1.66
+      },
+      "calculationNotes": [
+        "At Q130 threshold, switching from Special to Rare leaves positive/beneficial Snares stats unchanged but lowers Biological infection from 0.63 to 0.53.",
+        "This confirms Snares biological threshold-rarity behavior repeats at Q130."
+      ]
+    },
+    {
+      "screenshot": "img_7520a9f3c7e1.jpg",
+      "path": "screenshots/redacted/img_7520a9f3c7e1.jpg",
+      "panel": "artifact",
+      "artifactName": "Snares",
+      "level": 0,
+      "quality": 145,
+      "rarity": "rarity.rare",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Movement speed": "1.01%",
+        "Running speed": "1.38%",
+        "Laceration protection": 25.23,
+        "Biological infection": 0.63,
+        "Psy-emissions": -1.86
+      },
+      "calculationNotes": [
+        "Q145 Rare matched the predicted Snares quality scaling for positives/Psy-emissions and keeps the first-threshold Biological infection value 0.63.",
+        "At Q145 threshold, compare with Exclusive: positives and Psy-emissions unchanged; Biological infection improves by 0.10."
+      ]
+    },
+    {
+      "screenshot": "img_7c39a493376a.jpg",
+      "path": "screenshots/redacted/img_7c39a493376a.jpg",
+      "panel": "artifact",
+      "artifactName": "Snares",
+      "level": 0,
+      "quality": 145,
+      "rarity": "rarity.exclusive",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Movement speed": "1.01%",
+        "Running speed": "1.38%",
+        "Laceration protection": 25.23,
+        "Biological infection": 0.53,
+        "Psy-emissions": -1.86
+      },
+      "calculationNotes": [
+        "Q145 Exclusive matched the predicted Snares quality scaling for positives/Psy-emissions and the second-threshold Biological infection improvement to 0.53.",
+        "This confirms the Snares biological rarity-threshold pattern repeats at Q145."
+      ]
+    },
+    {
+      "screenshot": "img_63a20306f2dc.jpg",
+      "path": "screenshots/redacted/img_63a20306f2dc.jpg",
+      "panel": "artifact",
+      "artifactName": "Wicked Hedgehog",
+      "artifactId": "x22sxr4",
+      "level": 0,
+      "quality": 100,
+      "rarity": "rarity.unordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Stamina": "13.90%",
+        "Movement speed": "0.50%",
+        "Running speed": "0.70%",
+        "Radiation": -1.28,
+        "Temperature": -1.28,
+        "Biological infection": -1.28,
+        "Reaction to laceration": "0.90%"
+      },
+      "calculationNotes": [
+        "Wicked Hedgehog Q100/L0/Unordinary contributes Reaction to laceration 0.90% to the current build.",
+        "Its Radiation, Temperature, and Biological infection reductions display as -1.28 each; do not use ordinary/normalized -1.09 for the Unordinary build context."
+      ]
+    },
+    {
+      "screenshot": "img_1b345dc9686a.jpg",
+      "path": "screenshots/redacted/img_1b345dc9686a.jpg",
+      "panel": "artifact",
+      "artifactName": "Wicked Hedgehog",
+      "artifactId": "x22sxr4",
+      "level": 0,
+      "quality": 100,
+      "rarity": "rarity.unordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Stamina": "13.90%",
+        "Movement speed": "0.50%",
+        "Running speed": "0.70%",
+        "Radiation": -1.28,
+        "Temperature": -1.28,
+        "Biological infection": -1.28,
+        "Reaction to laceration": "0.90%"
+      },
+      "calculationNotes": [
+        "Wicked Hedgehog Q100/L0/Unordinary contributes Reaction to laceration 0.90% to the current build.",
+        "Its Radiation, Temperature, and Biological infection reductions display as -1.28 each; do not use ordinary/normalized -1.09 for the Unordinary build context."
+      ]
+    },
+    {
+      "screenshot": "img_645f78fc8bc0.jpg",
+      "path": "screenshots/redacted/img_645f78fc8bc0.jpg",
+      "panel": "artifact",
+      "artifactName": "Wicked Hedgehog",
+      "artifactId": "x22sxr4",
+      "level": 0,
+      "quality": 130,
+      "rarity": "rarity.special",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Stamina": "18.07%",
+        "Movement speed": "0.65%",
+        "Running speed": "0.91%",
+        "Radiation": -1.66,
+        "Temperature": -1.66,
+        "Biological infection": -1.66,
+        "Reaction to laceration": "1.17%"
+      },
+      "calculationNotes": [
+        "Wicked Hedgehog Q130/L0/Special scales all visible Q100/L0/Unordinary stats by quality: Stamina 13.90 -> 18.07, Movement 0.50 -> 0.65, Running 0.70 -> 0.91, Radiation/Temperature/Biological infection -1.28 -> -1.66, Reaction to laceration 0.90 -> 1.17.",
+        "Compare with Q130/L0/Rare: no visible threshold-rarity change for Wicked Hedgehog at this cap."
+      ]
+    },
+    {
+      "screenshot": "img_b5e56582cba0.jpg",
+      "path": "screenshots/redacted/img_b5e56582cba0.jpg",
+      "panel": "artifact",
+      "artifactName": "Wicked Hedgehog",
+      "artifactId": "x22sxr4",
+      "level": 0,
+      "quality": 130,
+      "rarity": "rarity.rare",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Stamina": "18.07%",
+        "Movement speed": "0.65%",
+        "Running speed": "0.91%",
+        "Radiation": -1.66,
+        "Temperature": -1.66,
+        "Biological infection": -1.66,
+        "Reaction to laceration": "1.17%"
+      },
+      "calculationNotes": [
+        "Wicked Hedgehog Q130/L0/Rare matches Q130/L0/Special exactly in the visible artifact panel values.",
+        "Unlike Snares Biological infection or Cursed Rose Radiation, no Wicked Hedgehog visible stat changed between the two legal Q130 rarities in these screenshots."
+      ]
+    },
+    {
+      "screenshot": "img_a7ff64a1b678.jpg",
+      "path": "screenshots/redacted/img_a7ff64a1b678.jpg",
+      "panel": "artifact",
+      "artifactName": "Cycle",
+      "artifactId": "04yr",
+      "level": 0,
+      "quality": 175,
+      "rarity": "rarity.legendary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Stamina": "26.95%",
+        "Biological infection": -7.14,
+        "Bleeding": -1.22
+      },
+      "calculationNotes": [
+        "Cycle Q175/L0/Legendary artifact panel matches quality scaling from Q100 raw bases: Stamina 15.4 * 1.75 = 26.95, Biological infection -4.08 * 1.75 = -7.14, Bleeding -0.70 * 1.75 = -1.225 displayed as -1.22.",
+        "For Cycle, the Q175 Legendary screenshot uses the strongest/beneficial endpoint for all visible stats; negative Biological infection and Bleeding are beneficial reductions."
+      ]
+    },
+    {
+      "screenshot": "img_474823a3e0dd.jpg",
+      "path": "screenshots/redacted/img_474823a3e0dd.jpg",
+      "panel": "artifact",
+      "artifactName": "Cycle",
+      "artifactId": "04yr",
+      "level": 0,
+      "quality": 175,
+      "rarity": "rarity.unique",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Stamina": "26.95%",
+        "Biological infection": -7.14,
+        "Bleeding": -1.22
+      },
+      "calculationNotes": [
+        "Cycle Q175/L0/Unique artifact panel matches Q175/L0/Legendary exactly: no visible Legendary-to-Unique threshold change for Cycle at quality 175.",
+        "Values match direct quality scaling from Q100 endpoint values: Stamina 15.40 * 1.75 = 26.95, Biological infection -4.08 * 1.75 = -7.14, Bleeding -0.70 * 1.75 = -1.225 displayed as -1.22."
+      ]
+    },
+    {
+      "screenshot": "img_5eba8d750a0a.jpg",
+      "path": "screenshots/redacted/img_5eba8d750a0a.jpg",
+      "panel": "artifact",
+      "artifactName": "Chilly",
+      "artifactId": "ljn2",
+      "level": 0,
+      "quality": 100,
+      "rarity": "rarity.ordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Vitality": "2.70%",
+        "Temperature": -0.38,
+        "Frost": 1.0,
+        "Burning": -0.4
+      },
+      "calculationNotes": [
+        "Chilly Q100/L0/Ordinary in the new Berloga 6 build replaces Coil. Vitality, beneficial negative Temperature, Frost, and Burning match normalized Wiki endpoint values at quality 100.",
+        "In final Result, Chilly contributes Vitality +2.70%, Temperature -0.38, Frost +1.00, and Burning -0.40; Coil-only Carry weight and Resistance to fire disappear."
+      ]
+    },
+    {
+      "screenshot": "img_81767862c72b.jpg",
+      "path": "screenshots/redacted/img_81767862c72b.jpg",
+      "panel": "artifact",
+      "artifactName": "Chilly",
+      "artifactId": "ljn2",
+      "level": 0,
+      "quality": 100,
+      "rarity": "rarity.unordinary",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Vitality": "2.70%",
+        "Temperature": -0.38,
+        "Frost": 0.9,
+        "Burning": -0.4
+      },
+      "calculationNotes": [
+        "Chilly Q100/L0/Unordinary changes Frost from the Ordinary endpoint 1.00 to 0.90 while Vitality, Temperature, and Burning remain 2.70%, -0.38, and -0.40.",
+        "This corrects the active new-build context: the Chilly row is Q100/L0/Unordinary, not Ordinary."
+      ]
+    },
+    {
+      "screenshot": "img_923d790cae7d.jpg",
+      "path": "screenshots/redacted/img_923d790cae7d.jpg",
+      "panel": "artifact",
+      "artifactName": "Chilly",
+      "artifactId": "ljn2",
+      "level": 0,
+      "quality": 130,
+      "rarity": "rarity.special",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Vitality": "3.51%",
+        "Temperature": -0.5,
+        "Frost": 1.0,
+        "Burning": -0.52
+      },
+      "calculationNotes": [
+        "Chilly Q130/L0/Special: Vitality, Temperature, and Burning match quality scaling from Q100 endpoints: 2.70*1.30=3.51, -0.384*1.30=-0.50, -0.40*1.30=-0.52.",
+        "Frost remains at the first-rarity harmful endpoint 1.00 for Q130 Special; compare Q130 Rare Frost 0.85."
+      ]
+    },
+    {
+      "screenshot": "img_0cfeb4436ec3.jpg",
+      "path": "screenshots/redacted/img_0cfeb4436ec3.jpg",
+      "panel": "artifact",
+      "artifactName": "Chilly",
+      "artifactId": "ljn2",
+      "level": 0,
+      "quality": 130,
+      "rarity": "rarity.rare",
+      "additionalStats": [],
+      "expectedStatsByDisplayName": {
+        "Vitality": "3.51%",
+        "Temperature": -0.5,
+        "Frost": 0.85,
+        "Burning": -0.52
+      },
+      "calculationNotes": [
+        "Chilly Q130/L0/Rare matches Q130 Special for Vitality, Temperature, and Burning.",
+        "Switching from Special to Rare lowers harmful Frost from 1.00 to 0.85 while leaving other visible stats unchanged, matching the threshold-rarity pattern seen on some harmful stats."
+      ]
+    }
+  ],
+  "rarityThresholdRuleFromOwner": {
+    "description": "Hard quality caps have two rarity choices. In-between qualities use the second rarity from the previous cap until the next cap.",
+    "thresholds": [
+      {
+        "quality": 100,
+        "rarities": [
+          "rarity.ordinary",
+          "rarity.unordinary"
+        ]
+      },
+      {
+        "quality": 115,
+        "rarities": [
+          "rarity.unordinary",
+          "rarity.special"
+        ]
+      },
+      {
+        "quality": 130,
+        "rarities": [
+          "rarity.special",
+          "rarity.rare"
+        ]
+      },
+      {
+        "quality": 145,
+        "rarities": [
+          "rarity.rare",
+          "rarity.exclusive"
+        ]
+      },
+      {
+        "quality": 160,
+        "rarities": [
+          "rarity.exclusive",
+          "rarity.legendary"
+        ]
+      },
+      {
+        "quality": 175,
+        "rarities": [
+          "rarity.legendary",
+          "rarity.unique"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "quality": 105,
+        "rarity": "rarity.unordinary"
+      },
+      {
+        "quality": 132,
+        "rarity": "rarity.rare"
+      },
+      {
+        "quality": 162,
+        "rarity": "rarity.legendary"
+      }
+    ]
+  },
+  "testBuildContexts": [
+    {
+      "id": "cursed-rose-rarity-threshold-test-berloga6-full-build",
+      "description": "Owner-provided full build context used for rarity threshold/final stat validation. Only Cursed Rose rarity changes between ordinary/unordinary Q100 L15 selected-additional screenshots; same Berloga 6 container and other artifacts.",
+      "container": {
+        "name": "Berloga — 6 Container",
+        "id": "g35n",
+        "capacity": 6,
+        "protection": 78.5,
+        "effectiveness": 100
+      },
+      "armor": null,
+      "artifacts": [
+        {
+          "name": "Cycle",
+          "level": 0,
+          "quality": 100
+        },
+        {
+          "name": "Wicked Hedgehog",
+          "level": 0,
+          "quality": 100,
+          "note": "Displayed as Wicked Hedgeh… in screenshot",
+          "id": "x22sxr4",
+          "calculationNote": "Wicked Hedgehog is the source of build-level Reaction to laceration 0.90% in current tests; screenshot-confirmed Q100/L0/Unordinary harmful reductions are Radiation/Temperature/Biological infection -1.28 each. Keep it fixed when isolating Snares deltas.",
+          "knownRelevantStatsAtQ100L0Unordinary": {
+            "Stamina": "13.90%",
+            "Movement speed": "0.50%",
+            "Running speed": "0.70%",
+            "Radiation": -1.28,
+            "Temperature": -1.28,
+            "Biological infection": -1.28,
+            "Reaction to laceration": "0.90%"
+          }
+        },
+        {
+          "name": "Coil",
+          "level": 0,
+          "quality": 100
+        },
+        {
+          "name": "Static",
+          "level": 0,
+          "quality": 100
+        },
+        {
+          "name": "Snares",
+          "level": 0,
+          "quality": 100
+        },
+        {
+          "name": "Cursed Rose",
+          "id": "5rg1",
+          "level": 15,
+          "quality": 100,
+          "selectedAdditionalStats": [
+            "Bullet resistance",
+            "Explosion protection",
+            "Stamina regeneration"
+          ]
+        }
+      ],
+      "sourceScreenshot": "img_590b038cf9c1.jpg",
+      "sourcePath": "screenshots/redacted/img_590b038cf9c1.jpg"
+    },
+    {
+      "id": "berloga6-full-build-all-q100-l0-unordinary-baseline",
+      "sourceScreenshot": "img_fad6bb286ab2.jpg",
+      "sourcePath": "screenshots/redacted/img_fad6bb286ab2.jpg",
+      "container": {
+        "name": "Berloga — 6 Container",
+        "capacity": 6,
+        "protectionPercent": 78.5,
+        "effectivenessPercent": 100
+      },
+      "armor": "none selected",
+      "artifacts": [
+        {
+          "name": "Coil",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary"
+        },
+        {
+          "name": "Cycle",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary"
+        },
+        {
+          "name": "Wicked Hedgehog",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary",
+          "id": "x22sxr4",
+          "calculationNote": "Wicked Hedgehog is the source of build-level Reaction to laceration 0.90% in current tests; screenshot-confirmed Q100/L0/Unordinary harmful reductions are Radiation/Temperature/Biological infection -1.28 each. Keep it fixed when isolating Snares deltas.",
+          "knownRelevantStatsAtQ100L0Unordinary": {
+            "Stamina": "13.90%",
+            "Movement speed": "0.50%",
+            "Running speed": "0.70%",
+            "Radiation": -1.28,
+            "Temperature": -1.28,
+            "Biological infection": -1.28,
+            "Reaction to laceration": "0.90%"
+          }
+        },
+        {
+          "name": "Static",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary"
+        },
+        {
+          "name": "Snares",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary"
+        },
+        {
+          "name": "Cursed Rose",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary"
+        }
+      ],
+      "note": "Rarity is not visible in the container-list screenshot; The owner clarified the artifacts in this build are Q100/L0 and Unordinary."
+    },
+    {
+      "id": "berloga6-chilly-cycle-wicked-static-snares-cursedrose-q100-l0-result-build",
+      "sourceScreenshot": "img_1deb618e8c54.jpg",
+      "sourcePath": "screenshots/redacted/img_1deb618e8c54.jpg",
+      "container": {
+        "name": "Berloga — 6 Container",
+        "id": "g35n",
+        "capacity": 6,
+        "protectionPercent": 78.5,
+        "effectivenessPercent": 100
+      },
+      "armor": "none selected",
+      "artifacts": [
+        {
+          "name": "Chilly",
+          "id": "ljn2",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary"
+        },
+        {
+          "name": "Cycle",
+          "id": "04yr",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary"
+        },
+        {
+          "name": "Wicked Hedgehog",
+          "id": "x22sxr4",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary"
+        },
+        {
+          "name": "Static",
+          "id": "4lpo",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary"
+        },
+        {
+          "name": "Snares",
+          "id": "rnkl",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary"
+        },
+        {
+          "name": "Cursed Rose",
+          "id": "5rg1",
+          "level": 0,
+          "quality": 100,
+          "rarity": "rarity.unordinary"
+        }
+      ],
+      "note": "New build screenshot replaces Coil with Chilly. Latest Chilly artifact-panel screenshot confirms Chilly is Q100/L0/Unordinary: Frost 0.90, not the Ordinary endpoint 1.00. Other visible container-list rows show +0 100%, with prior fixtures supplying established Q100/L0 Unordinary baselines."
+    }
+  ],
+  "resultPanelFixtures": [
+    {
+      "id": "berloga6-full-build-cursed-rose-q100-l15-unordinary-result",
+      "contextId": "cursed-rose-rarity-threshold-test-berloga6-full-build",
+      "panel": "result",
+      "sourceScreenshot": "img_7a7ef37009cf.jpg",
+      "sourcePath": "screenshots/redacted/img_7a7ef37009cf.jpg",
+      "selectedResultCategory": "Reactions to Anomalies",
+      "cursedRoseOverride": {
+        "quality": 100,
+        "level": 15,
+        "rarity": "rarity.unordinary"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 130.25,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 30.25,
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "3.77%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 15.47,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.45
+      }
+    },
+    {
+      "id": "berloga6-full-build-cursed-rose-q100-l15-ordinary-result",
+      "contextId": "cursed-rose-rarity-threshold-test-berloga6-full-build",
+      "panel": "result",
+      "sourceScreenshot": "img_1069fcf15d25.jpg",
+      "sourcePath": "screenshots/redacted/img_1069fcf15d25.jpg",
+      "selectedResultCategory": "Reactions to Anomalies",
+      "cursedRoseOverride": {
+        "quality": 100,
+        "level": 15,
+        "rarity": "rarity.ordinary"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 130.25,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 30.25,
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "3.77%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 15.47,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.48
+      }
+    },
+    {
+      "id": "berloga6-full-build-cursed-rose-q130-l15-special-result",
+      "contextId": "cursed-rose-rarity-threshold-test-berloga6-full-build",
+      "panel": "result",
+      "sourceScreenshot": "img_0084e733a1f7.jpg",
+      "sourcePath": "screenshots/redacted/img_0084e733a1f7.jpg",
+      "selectedResultCategory": "Reactions to Anomalies",
+      "cursedRoseOverride": {
+        "quality": 130,
+        "level": 15,
+        "rarity": "rarity.special"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 136.3,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 36.3,
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "4.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 20.11,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.48
+      }
+    },
+    {
+      "id": "berloga6-full-build-cursed-rose-q130-l15-rare-result",
+      "contextId": "cursed-rose-rarity-threshold-test-berloga6-full-build",
+      "panel": "result",
+      "sourceScreenshot": "img_edec7db95ec4.jpg",
+      "sourcePath": "screenshots/redacted/img_edec7db95ec4.jpg",
+      "selectedResultCategory": "Reactions to Anomalies",
+      "cursedRoseOverride": {
+        "quality": 130,
+        "level": 15,
+        "rarity": "rarity.rare"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 136.3,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 36.3,
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "4.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 20.11,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.44
+      }
+    },
+    {
+      "id": "berloga6-full-build-cursed-rose-q145-l15-rare-result",
+      "contextId": "cursed-rose-rarity-threshold-test-berloga6-full-build",
+      "panel": "result",
+      "sourceScreenshot": "img_d69ee51efa47.jpg",
+      "sourcePath": "screenshots/redacted/img_d69ee51efa47.jpg",
+      "selectedResultCategory": "Reactions to Anomalies",
+      "cursedRoseOverride": {
+        "quality": 145,
+        "level": 15,
+        "rarity": "rarity.rare"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 139.32,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 39.32,
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "5.47%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 22.43,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.48
+      }
+    },
+    {
+      "id": "berloga6-full-build-cursed-rose-q145-l15-exclusive-result",
+      "contextId": "cursed-rose-rarity-threshold-test-berloga6-full-build",
+      "panel": "result",
+      "sourceScreenshot": "img_c0ad7ea3ab33.jpg",
+      "sourcePath": "screenshots/redacted/img_c0ad7ea3ab33.jpg",
+      "selectedResultCategory": "Reactions to Anomalies",
+      "cursedRoseOverride": {
+        "quality": 145,
+        "level": 15,
+        "rarity": "rarity.exclusive"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Effective health": 139.32,
+        "Bullet resistance": 39.32,
+        "Stamina regeneration": "5.47%",
+        "Explosion protection": 22.43,
+        "Radiation": 0.44
+      }
+    },
+    {
+      "id": "berloga6-full-build-cursed-rose-q160-l15-exclusive-result",
+      "contextId": "cursed-rose-rarity-threshold-test-berloga6-full-build",
+      "panel": "result",
+      "sourceScreenshot": "img_6653d85efd82.jpg",
+      "sourcePath": "screenshots/redacted/img_6653d85efd82.jpg",
+      "selectedResultCategory": "Reactions to Anomalies",
+      "cursedRoseOverride": {
+        "quality": 160,
+        "level": 15,
+        "rarity": "rarity.exclusive"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Effective health": 142.34,
+        "Bullet resistance": 42.34,
+        "Stamina regeneration": "6.03%",
+        "Explosion protection": 24.75,
+        "Radiation": 0.48
+      }
+    },
+    {
+      "id": "berloga6-full-build-cursed-rose-q160-l15-legendary-result",
+      "contextId": "cursed-rose-rarity-threshold-test-berloga6-full-build",
+      "panel": "result",
+      "sourceScreenshot": "img_bed4bd6a66d7.jpg",
+      "sourcePath": "screenshots/redacted/img_bed4bd6a66d7.jpg",
+      "selectedResultCategory": "Reactions to Anomalies",
+      "cursedRoseOverride": {
+        "quality": 160,
+        "level": 15,
+        "rarity": "rarity.legendary"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Effective health": 142.34,
+        "Bullet resistance": 42.34,
+        "Stamina regeneration": "6.03%",
+        "Explosion protection": 24.75,
+        "Radiation": 0.44
+      }
+    },
+    {
+      "id": "berloga6-all-q100-l0-unordinary-result-reactions-to-anomalies",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline",
+      "panel": "result",
+      "sourceScreenshot": "img_c8d1eb28b6d8.jpg",
+      "sourcePath": "screenshots/redacted/img_c8d1eb28b6d8.jpg",
+      "selectedResultCategory": "Reactions to Anomalies",
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 121.7,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.45
+      }
+    },
+    {
+      "id": "berloga6-snares-q100-l0-ordinary-result-reactions-to-anomalies",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-snares-ordinary-override",
+      "panel": "result",
+      "sourceScreenshot": "img_8554a6c2cf1d.jpg",
+      "sourcePath": "screenshots/redacted/img_8554a6c2cf1d.jpg",
+      "selectedResultCategory": "Reactions to Anomalies",
+      "snaresOverride": {
+        "quality": 100,
+        "level": 0,
+        "rarity": "rarity.ordinary"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.74,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.45,
+        "Effective health": 121.7
+      }
+    },
+    {
+      "id": "berloga6-snares-q100-l0-ordinary-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-snares-ordinary-override",
+      "panel": "result",
+      "sourceScreenshot": "img_403156904974.jpg",
+      "sourcePath": "screenshots/redacted/img_403156904974.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "snaresOverride": {
+        "quality": 100,
+        "level": 0,
+        "rarity": "rarity.ordinary"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.74,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.45,
+        "Effective health": 122.8,
+        "Vitality": "0.90%",
+        "Stamina regeneration": "0.90%"
+      }
+    },
+    {
+      "id": "berloga6-snares-q115-l0-unordinary-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-snares-q115-unordinary-override",
+      "panel": "result",
+      "sourceScreenshot": "img_aec61b28e065.jpg",
+      "sourcePath": "screenshots/redacted/img_aec61b28e065.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "snaresOverride": {
+        "quality": 115,
+        "level": 0,
+        "rarity": "rarity.unordinary"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 122.8,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Vitality": "0.90%",
+        "Movement speed": "2.50%",
+        "Running speed": "3.39%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "0.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 20.01,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Psy-emissions": -1.47,
+        "Temperature": 0.21,
+        "Radiation": 0.45,
+        "Biological infection": -4.74
+      }
+    },
+    {
+      "id": "berloga6-snares-q115-l0-special-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-snares-q115-special-override",
+      "panel": "result",
+      "sourceScreenshot": "img_3ac9acfca544.jpg",
+      "sourcePath": "screenshots/redacted/img_3ac9acfca544.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "snaresOverride": {
+        "quality": 115,
+        "level": 0,
+        "rarity": "rarity.special"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 122.8,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Vitality": "0.90%",
+        "Movement speed": "2.50%",
+        "Running speed": "3.39%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "0.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 20.01,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Psy-emissions": -1.47,
+        "Temperature": 0.21,
+        "Radiation": 0.45,
+        "Biological infection": -4.83
+      }
+    },
+    {
+      "id": "berloga6-snares-q130-l0-special-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-snares-q130-special-override",
+      "panel": "result",
+      "sourceScreenshot": "img_fce7912b2b5b.jpg",
+      "sourcePath": "screenshots/redacted/img_fce7912b2b5b.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "snaresOverride": {
+        "quality": 130,
+        "level": 0,
+        "rarity": "rarity.special"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 122.8,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Vitality": "0.90%",
+        "Movement speed": "2.61%",
+        "Running speed": "3.53%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "0.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 22.62,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.74,
+        "Psy-emissions": -1.66,
+        "Temperature": 0.21,
+        "Radiation": 0.45
+      },
+      "calculationNotes": [
+        "Result panel uses Reaction to laceration context. Running speed is recorded as +3.53% from the user-provided screenshot description and consistency with Snares artifact delta; automated OCR/vision had a conflicting negative sign read.",
+        "Q130 Special Biological infection final remains -4.74, matching the Q100 Ordinary and Q115 Unordinary result despite higher quality; Snares biological is rarity-threshold-sensitive and not a simple positive quality scale in final aggregation."
+      ]
+    },
+    {
+      "id": "berloga6-snares-q130-l0-rare-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-snares-q130-rare-override",
+      "panel": "result",
+      "sourceScreenshot": "img_74ced6f896e6.jpg",
+      "sourcePath": "screenshots/redacted/img_74ced6f896e6.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "snaresOverride": {
+        "quality": 130,
+        "level": 0,
+        "rarity": "rarity.rare"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 122.8,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Vitality": "0.90%",
+        "Movement speed": "2.61%",
+        "Running speed": "3.53%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "0.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 22.62,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.83,
+        "Psy-emissions": -1.66,
+        "Temperature": 0.21,
+        "Radiation": 0.45
+      },
+      "calculationNotes": [
+        "Result panel uses Reaction to laceration context for Snares Q130 Rare.",
+        "Compared with Q130 Special result, Biological infection improves from -4.74 to -4.83 while visible positive/beneficial stats remain unchanged.",
+        "Running speed is recorded as +3.53% from the user-provided screenshot description and consistency with prior Q130 Special arithmetic; automated OCR/vision again produced a conflicting negative-sign read."
+      ]
+    },
+    {
+      "id": "berloga6-snares-q145-l0-rare-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-snares-q145-rare-override",
+      "panel": "result",
+      "sourceScreenshot": "img_c459a9af2438.jpg",
+      "sourcePath": "screenshots/redacted/img_c459a9af2438.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "snaresOverride": {
+        "quality": 145,
+        "level": 0,
+        "rarity": "rarity.rare"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 122.8,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Vitality": "0.90%",
+        "Movement speed": "2.71%",
+        "Running speed": "3.68%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "0.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 25.23,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.74,
+        "Psy-emissions": -1.86,
+        "Temperature": 0.21,
+        "Radiation": 0.45
+      },
+      "calculationNotes": [
+        "Q145 Rare Result panel matched the prediction in Reaction to laceration context.",
+        "Movement speed 2.71%, Running speed 3.68%, Laceration protection 25.23, Psy-emissions -1.86, Biological infection -4.74."
+      ]
+    },
+    {
+      "id": "berloga6-snares-q145-l0-exclusive-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-snares-q145-exclusive-override",
+      "panel": "result",
+      "sourceScreenshot": "img_6fb2ad08068d.jpg",
+      "sourcePath": "screenshots/redacted/img_6fb2ad08068d.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "snaresOverride": {
+        "quality": 145,
+        "level": 0,
+        "rarity": "rarity.exclusive"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 122.8,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Vitality": "0.90%",
+        "Movement speed": "2.71%",
+        "Running speed": "3.68%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "0.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 25.23,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.83,
+        "Psy-emissions": -1.86,
+        "Temperature": 0.21,
+        "Radiation": 0.45
+      },
+      "calculationNotes": [
+        "Q145 Exclusive Result panel matched prediction in Reaction to laceration context.",
+        "Compared with Q145 Rare result, Biological infection improves from -4.74 to -4.83 while visible positives and Psy-emissions remain unchanged."
+      ]
+    },
+    {
+      "id": "berloga6-all-q100-l0-unordinary-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline",
+      "panel": "result",
+      "sourceScreenshot": "img_061fc264a76c.jpg",
+      "sourcePath": "screenshots/redacted/img_061fc264a76c.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 122.8,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Vitality": "0.90%",
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "0.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.45
+      },
+      "calculationNotes": [
+        "Baseline all-Q100/L0/Unordinary build with Reaction to laceration selected.",
+        "Wicked Hedgehog supplies Reaction to laceration 0.90%; Snares supplies Laceration protection 17.40 and Psy-emissions -1.28 in this baseline.",
+        "Effective health 122.80 / Vitality 0.90% / Stamina regeneration 0.90% are Result-context outputs when Reaction to laceration is selected."
+      ]
+    },
+    {
+      "id": "berloga6-all-q100-l0-unordinary-result-reaction-to-laceration-selected-confirmation-2cda916a",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline",
+      "panel": "result",
+      "sourceScreenshot": "img_2cda916ac01d.jpg",
+      "sourcePath": "screenshots/redacted/img_2cda916ac01d.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 122.8,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Vitality": "0.90%",
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "0.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.45
+      },
+      "calculationNotes": [
+        "Second confirmation screenshot for baseline all-Q100/L0/Unordinary build with Reaction to laceration selected.",
+        "Matches img_061fc264a76c.jpg exactly; confirms Wicked Hedgehog fixed Reaction to laceration 0.90% and baseline result values."
+      ]
+    },
+    {
+      "id": "berloga6-wicked-hedgehog-q130-l0-special-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-wicked-hedgehog-q130-special-override",
+      "panel": "result",
+      "sourceScreenshot": "img_8cc803e0beb9.jpg",
+      "sourcePath": "screenshots/redacted/img_8cc803e0beb9.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "wickedHedgehogOverride": {
+        "quality": 130,
+        "level": 0,
+        "rarity": "rarity.special"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 123.12,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Vitality": "1.17%",
+        "Movement speed": "2.55%",
+        "Running speed": "3.46%",
+        "Stamina": "33.47%",
+        "Stamina regeneration": "1.17%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "1.17%",
+        "Biological infection": -5.18,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.13,
+        "Radiation": 0.37
+      },
+      "calculationNotes": [
+        "Full build baseline with only Wicked Hedgehog overridden to Q130/L0/Special and Result category Reaction to laceration selected.",
+        "Positive/derived Wicked Hedgehog deltas pass through directly: Movement +0.15, Running +0.21, Stamina +4.17, Reaction/Vitality/Stamina regeneration +0.27.",
+        "Radiation and Temperature final deltas match Berloga 6 passthrough on the Wicked Hedgehog artifact delta: -0.38 * 0.215 ~= -0.08 displayed. Biological infection improves directly by about -0.38 in the displayed Result panel."
+      ]
+    },
+    {
+      "id": "berloga6-wicked-hedgehog-q130-l0-rare-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-wicked-hedgehog-q130-rare-override",
+      "panel": "result",
+      "sourceScreenshot": "img_e28066f43071.jpg",
+      "sourcePath": "screenshots/redacted/img_e28066f43071.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "wickedHedgehogOverride": {
+        "quality": 130,
+        "level": 0,
+        "rarity": "rarity.rare"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 123.12,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Bullet resistance": 21.7,
+        "Vitality": "1.17%",
+        "Movement speed": "2.55%",
+        "Running speed": "3.46%",
+        "Stamina": "33.47%",
+        "Stamina regeneration": "1.17%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "1.17%",
+        "Biological infection": -5.18,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.13,
+        "Radiation": 0.37
+      },
+      "calculationNotes": [
+        "Full build baseline with only Wicked Hedgehog overridden to Q130/L0/Rare and Result category Reaction to laceration selected.",
+        "Matches the Q130/L0/Special Wicked Hedgehog Result panel exactly, confirming no visible Q130 Special-to-Rare threshold change for Wicked Hedgehog in artifact or Result panels."
+      ]
+    },
+    {
+      "id": "berloga6-cycle-q175-l0-legendary-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-cycle-q175-legendary-override",
+      "panel": "result",
+      "sourceScreenshot": "img_149b24ddc27a.jpg",
+      "sourcePath": "screenshots/redacted/img_149b24ddc27a.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "cycleOverride": {
+        "quality": 175,
+        "level": 0,
+        "rarity": "rarity.legendary"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 122.8,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -1.22,
+        "Bullet resistance": 21.7,
+        "Vitality": "0.90%",
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "40.85%",
+        "Stamina regeneration": "0.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -7.86,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.45
+      },
+      "calculationNotes": [
+        "Full build baseline with only Cycle overridden to Q175/L0/Legendary and Result category Reaction to laceration selected.",
+        "Matches the paired Q175 Cycle Result screenshot exactly; no visible Legendary-to-Unique threshold change for Cycle at quality 175.",
+        "Final deltas from Q100 baseline are direct for Cycle Stamina/Bio/Bleeding: Stamina 29.30 -> 40.85 (+11.55), Biological -4.80 -> -7.86 (-3.06), Bleeding -0.70 -> -1.22 (-0.52)."
+      ]
+    },
+    {
+      "id": "berloga6-cycle-q175-l0-unique-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-full-build-all-q100-l0-unordinary-baseline-with-cycle-q175-unique-override",
+      "panel": "result",
+      "sourceScreenshot": "img_0e8b91afceb5.jpg",
+      "sourcePath": "screenshots/redacted/img_0e8b91afceb5.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "cycleOverride": {
+        "quality": 175,
+        "level": 0,
+        "rarity": "rarity.unique"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 122.8,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -1.22,
+        "Bullet resistance": 21.7,
+        "Vitality": "0.90%",
+        "Movement speed": "2.40%",
+        "Running speed": "3.25%",
+        "Stamina": "40.85%",
+        "Stamina regeneration": "0.90%",
+        "Carry weight": 4.7,
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Resistance to fire": 16.2,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -7.86,
+        "Psy-emissions": -1.28,
+        "Temperature": 0.21,
+        "Radiation": 0.45
+      },
+      "calculationNotes": [
+        "Full build baseline with only Cycle overridden to Q175/L0/Unique and Result category Reaction to laceration selected.",
+        "Matches the paired Q175 Cycle Result screenshot exactly; no visible Legendary-to-Unique threshold change for Cycle at quality 175.",
+        "Final deltas from Q100 baseline are direct for Cycle Stamina/Bio/Bleeding: Stamina 29.30 -> 40.85 (+11.55), Biological -4.80 -> -7.86 (-3.06), Bleeding -0.70 -> -1.22 (-0.52)."
+      ]
+    },
+    {
+      "id": "berloga6-chilly-build-q100-l0-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-chilly-cycle-wicked-static-snares-cursedrose-q100-l0-result-build",
+      "panel": "result",
+      "sourceScreenshot": "img_072df75d319d.jpg",
+      "sourcePath": "screenshots/redacted/img_072df75d319d.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 126.08,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Burning": -0.4,
+        "Bullet resistance": 21.7,
+        "Vitality": "3.60%",
+        "Movement speed": "1.20%",
+        "Running speed": "1.65%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "0.90%",
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": -1.66,
+        "Radiation": 0.45,
+        "Frost": 0.9
+      },
+      "calculationNotes": [
+        "Latest confirmation screenshot corrects the Chilly build to Q100/L0/Unordinary: Frost is 0.90, not 1.00.",
+        "Matches delta prediction from the prior all-Q100/L0 baseline after swapping Coil out for Chilly: Movement drops 2.40 -> 1.20, Running drops 3.25 -> 1.65, Carry weight and Resistance to fire disappear, Chilly adds Burning -0.40, Frost 0.90, and Vitality +2.70.",
+        "Displayed Vitality is 3.60% = Chilly 2.70% + Reaction-to-laceration context 0.90%. Temperature is -1.66 = Chilly -0.38 + Wicked Hedgehog -1.28, confirming beneficial negative thermal accumulation is effectively direct while positive thermal harm from Coil was removed.",
+        "Radiation and Biological infection remain at the established baseline values 0.45 and -4.80 because the swap affects neither radiation nor biological contributors."
+      ]
+    },
+    {
+      "id": "berloga6-chilly-q130-l0-special-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-chilly-cycle-wicked-static-snares-cursedrose-q100-l0-result-build-with-chilly-q130-special-override",
+      "panel": "result",
+      "sourceScreenshot": "img_226e0fe30b22.jpg",
+      "sourcePath": "screenshots/redacted/img_226e0fe30b22.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "chillyOverride": {
+        "quality": 130,
+        "level": 0,
+        "rarity": "rarity.special"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 127.07,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Burning": -0.52,
+        "Bullet resistance": 21.7,
+        "Vitality": "4.41%",
+        "Movement speed": "1.20%",
+        "Running speed": "1.65%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "0.90%",
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": -1.78,
+        "Radiation": 0.45,
+        "Frost": 1.0
+      },
+      "calculationNotes": [
+        "Full build with only Chilly overridden to Q130/L0/Special and Result category Reaction to laceration selected.",
+        "Result deltas from the Q100/L0/Unordinary Chilly build are direct for Chilly-visible values: Vitality 3.60 -> 4.41 (+0.81), Temperature -1.66 -> -1.78 (-0.12), Burning -0.40 -> -0.52 (-0.12), Frost 0.90 -> 1.00 (+0.10).",
+        "Unaffected build stats remain unchanged: Movement 1.20, Running 1.65, Biological -4.80, Radiation 0.45."
+      ]
+    },
+    {
+      "id": "berloga6-chilly-q130-l0-rare-result-reaction-to-laceration-selected",
+      "contextId": "berloga6-chilly-cycle-wicked-static-snares-cursedrose-q100-l0-result-build-with-chilly-q130-rare-override",
+      "panel": "result",
+      "sourceScreenshot": "img_95eabb1be434.jpg",
+      "sourcePath": "screenshots/redacted/img_95eabb1be434.jpg",
+      "selectedResultCategory": "Reaction to laceration",
+      "chillyOverride": {
+        "quality": 130,
+        "level": 0,
+        "rarity": "rarity.rare"
+      },
+      "expectedFinalStatsByDisplayName": {
+        "Effective health": 127.07,
+        "Healing per second": "0.50%",
+        "Recoil": "-3.70%",
+        "Bleeding": -0.7,
+        "Burning": -0.52,
+        "Bullet resistance": 21.7,
+        "Vitality": "4.41%",
+        "Movement speed": "1.20%",
+        "Running speed": "1.65%",
+        "Stamina": "29.30%",
+        "Stamina regeneration": "0.90%",
+        "Laceration protection": 17.4,
+        "Explosion protection": 8.9,
+        "Reaction to laceration": "0.90%",
+        "Biological infection": -4.8,
+        "Psy-emissions": -1.28,
+        "Temperature": -1.78,
+        "Radiation": 0.45,
+        "Frost": 0.85
+      },
+      "calculationNotes": [
+        "Full build with only Chilly overridden to Q130/L0/Rare and Result category Reaction to laceration selected.",
+        "Matches the Q130 Rare prediction exactly: identical to Q130 Special result except Frost improves from 1.00 to 0.85.",
+        "Confirms Chilly Q130 Special-to-Rare threshold-rarity behavior affects Frost only in the visible Result panel."
+      ]
+    }
+  ]
+}

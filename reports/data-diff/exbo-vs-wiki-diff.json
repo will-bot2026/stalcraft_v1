@@ -1,0 +1,3902 @@
+{
+  "summary": {
+    "wikiArtifactCount": 102,
+    "exboArtifactCount": 1584,
+    "sharedArtifactCount": 99,
+    "wikiOnlyArtifactCount": 3,
+    "exboOnlyArtifactCount": 0,
+    "artifactNameDifferenceCount": 0,
+    "artifactStatDifferenceCount": 99,
+    "exboDuplicateArtifactIdCount": 99,
+    "variantMismatchCount": 102,
+    "wikiContainerCount": 54,
+    "exboContainerCount": 54,
+    "sharedContainerCount": 54,
+    "wikiOnlyContainerCount": 0,
+    "exboOnlyContainerCount": 0,
+    "containerDifferenceCount": 0
+  },
+  "artifacts": {
+    "wikiOnly": [
+      {
+        "id": "9n7z",
+        "name": "Rubik"
+      },
+      {
+        "id": "azq5t9so",
+        "name": "Regalia"
+      },
+      {
+        "id": "x22sxr4",
+        "name": "Wicked Hedgehog"
+      }
+    ],
+    "exboOnly": [],
+    "differentNames": [],
+    "statDifferences": [
+      {
+        "id": "04yr",
+        "wikiName": "Cycle",
+        "exboName": "Cycle",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "biological_accumulation",
+            "wikiMin": -4.08,
+            "wikiMax": -3.468,
+            "exboMin": -4.8143997,
+            "exboMax": -4.09224,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "bleeding_accumulation",
+            "wikiMin": -0.7,
+            "wikiMax": -0.25,
+            "exboMin": -0.826,
+            "exboMax": -0.7021,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 4.28,
+            "wikiMax": 15.4,
+            "exboMin": 15.446199,
+            "exboMax": 18.171999,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "1k4q",
+        "wikiName": "Lard",
+        "exboName": "Lard",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 1.48,
+            "wikiMax": 5.4,
+            "exboMin": 5.4162,
+            "exboMax": 6.3719997,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "reaction_to_chemical_burn",
+            "wikiMin": 0.93500006,
+            "wikiMax": 1.1,
+            "exboMin": 1.1033,
+            "exboMax": 1.298,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.58,
+            "wikiMax": 2,
+            "exboMin": 2.006,
+            "exboMax": 2.36,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "1k96",
+        "wikiName": "Rattle",
+        "exboName": "Rattle",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.16,
+            "wikiMax": 0.5,
+            "exboMin": 0.5015,
+            "exboMax": 0.59,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "sprint_speed_modifier",
+            "wikiMin": 0.595,
+            "wikiMax": 0.7,
+            "exboMin": 0.7021,
+            "exboMax": 0.826,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 3.995,
+            "wikiMax": 13.9,
+            "exboMin": 13.941699,
+            "exboMax": 16.401999,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "1kdg",
+        "wikiName": "Sticky Burr",
+        "exboName": "Sticky Burr",
+        "missingInWiki": [],
+        "missingInExbo": [],
+        "valueDifferences": [
+          {
+            "key": "radiation_accumulation",
+            "wikiMin": -2.16,
+            "wikiMax": -0.748,
+            "exboMin": -2.5488,
+            "exboMax": -2.16648,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.12,
+            "wikiMax": 0.4,
+            "exboMin": 0.4012,
+            "exboMax": 0.47199997,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "sprint_speed_modifier",
+            "wikiMin": 0.46750003,
+            "wikiMax": 0.55,
+            "exboMin": 0.55165,
+            "exboMax": 0.649,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 3.06,
+            "wikiMax": 10.8,
+            "exboMin": 10.8324,
+            "exboMax": 12.7439995,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "1kv2",
+        "wikiName": "Prima",
+        "exboName": "Prima",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_accumulation"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 2.635,
+            "wikiMax": 9.3,
+            "exboMin": 9.3279,
+            "exboMax": 10.974,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "tear_dmg_factor",
+            "wikiMin": 2.635,
+            "wikiMax": 9.1,
+            "exboMin": 9.1273,
+            "exboMax": 10.738,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "1kw1",
+        "wikiName": "Crystal of Inside Out",
+        "exboName": "Crystal of Inside Out",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 3.57,
+            "wikiMax": 12.4,
+            "exboMin": 12.4372,
+            "exboMax": 14.631999,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "radiation_accumulation",
+            "wikiMin": -1.28,
+            "wikiMax": -1.088,
+            "exboMin": -1.5103999,
+            "exboMax": -1.28384,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 3.74,
+            "wikiMax": 13,
+            "exboMin": 13.039,
+            "exboMax": 15.339999,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "49zn",
+        "wikiName": "Stress fest",
+        "exboName": "Stress fest",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "max_weight_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 2.89,
+            "wikiMax": 10.2,
+            "exboMin": 10.230599,
+            "exboMax": 12.035999,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.2,
+            "wikiMax": 0.7,
+            "exboMin": 0.7021,
+            "exboMax": 0.826,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "sprint_speed_modifier",
+            "wikiMin": 0.8075,
+            "wikiMax": 0.95,
+            "exboMin": 0.95285,
+            "exboMax": 1.1209999,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "4l1r",
+        "wikiName": "Proto-Onion",
+        "exboName": "Proto-Onion",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 1.36,
+            "wikiMax": 4.8,
+            "exboMin": 4.8144,
+            "exboMax": 5.664,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "radiation_accumulation",
+            "wikiMin": -3.04,
+            "wikiMax": -2.584,
+            "exboMin": -3.5871997,
+            "exboMax": -3.0491197,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.765,
+            "wikiMax": 2.7,
+            "exboMin": 2.7081,
+            "exboMax": 3.1859999,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "4l7p",
+        "wikiName": "Scallop",
+        "exboName": "Scallop",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_accumulation"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 2.89,
+            "wikiMax": 10.1,
+            "exboMin": 10.1303005,
+            "exboMax": 11.918,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "explosion_dmg_factor",
+            "wikiMin": 2.21,
+            "wikiMax": 7.8,
+            "exboMin": 7.8234,
+            "exboMax": 9.2039995,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "4lkp",
+        "wikiName": "Ilyich Lamp",
+        "exboName": "Ilyich Lamp",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "electra_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 1.98,
+            "wikiMax": 7,
+            "exboMin": 7.0209994,
+            "exboMax": 8.259999,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "psycho_accumulation",
+            "wikiMin": -3.04,
+            "wikiMax": -2.584,
+            "exboMin": -3.5871997,
+            "exboMax": -3.0491197,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "psycho_protection",
+            "wikiMin": 16.47,
+            "wikiMax": 45,
+            "exboMin": 45.135,
+            "exboMax": 53.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "reaction_to_electroshock",
+            "wikiMin": 1.0200001,
+            "wikiMax": 1.2,
+            "exboMin": 1.2036,
+            "exboMax": 1.416,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "4lml",
+        "wikiName": "Snake Eye",
+        "exboName": "Snake Eye",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.595,
+            "wikiMax": 1.9,
+            "exboMin": 1.9057,
+            "exboMax": 2.2419999,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.2,
+            "wikiMax": 0.75,
+            "exboMin": 0.75225,
+            "exboMax": 0.885,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "sprint_speed_modifier",
+            "wikiMin": 0.85,
+            "wikiMax": 1,
+            "exboMin": 1.003,
+            "exboMax": 1.18,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "4lpo",
+        "wikiName": "Static",
+        "exboName": "Static",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 2.8,
+            "wikiMax": 10.1,
+            "exboMin": 10.1303005,
+            "exboMax": 11.918,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "recoil_bonus",
+            "wikiMin": -3.7,
+            "wikiMax": -1.07,
+            "exboMin": -4.3659997,
+            "exboMax": -3.7110999,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "4lrn",
+        "wikiName": "Bismuth",
+        "exboName": "Bismuth",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "wiggle_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "recoil_bonus",
+            "wikiMin": -4.4,
+            "wikiMax": -1.275,
+            "exboMin": -5.192,
+            "exboMax": -4.4132,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.85,
+            "wikiMax": 2.8,
+            "exboMin": 2.8084,
+            "exboMax": 3.304,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "51l0",
+        "wikiName": "Mug",
+        "exboName": "Mug",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "biological_accumulation",
+            "wikiMin": -1.28,
+            "wikiMax": -1.088,
+            "exboMin": -1.5103999,
+            "exboMax": -1.28384,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "explosion_dmg_factor",
+            "wikiMin": 3.54,
+            "wikiMax": 12.7,
+            "exboMin": 12.7381,
+            "exboMax": 14.985999,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.33,
+            "wikiMax": 1.2,
+            "exboMin": 1.2036,
+            "exboMax": 1.416,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "5r04",
+        "wikiName": "Phlegm",
+        "exboName": "Phlegm",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_accumulation"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bleeding_protection",
+            "wikiMin": 1.615,
+            "wikiMax": 5.7,
+            "exboMin": 5.7170997,
+            "exboMax": 6.7259994,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 2.14,
+            "wikiMax": 7.7,
+            "exboMin": 7.7230997,
+            "exboMax": 9.0859995,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "5r34",
+        "wikiName": "Heart",
+        "exboName": "Heart",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "heal_efficiency"
+        ],
+        "valueDifferences": [
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.765,
+            "wikiMax": 2.3,
+            "exboMin": 2.3068998,
+            "exboMax": 2.7139997,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.66,
+            "wikiMax": 2.5,
+            "exboMin": 2.5075,
+            "exboMax": 2.9499998,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "5r5g",
+        "wikiName": "Ice Hedgehog",
+        "exboName": "Ice Hedgehog",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.28,
+            "wikiMax": 1,
+            "exboMin": 1.003,
+            "exboMax": 1.18,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "sprint_speed_modifier",
+            "wikiMin": 1.1475,
+            "wikiMax": 1.35,
+            "exboMin": 1.35405,
+            "exboMax": 1.5929999,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.85,
+            "wikiMax": 2.9,
+            "exboMin": 2.9087,
+            "exboMax": 3.422,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "5rd1",
+        "wikiName": "Steel Hedgehog",
+        "exboName": "Steel Hedgehog",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "tear_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 3.74,
+            "wikiMax": 13,
+            "exboMin": 13.039,
+            "exboMax": 15.339999,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "reaction_to_tear",
+            "wikiMin": 1.105,
+            "wikiMax": 1.3,
+            "exboMin": 1.3039,
+            "exboMax": 1.5339999,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 4.03,
+            "wikiMax": 14.6,
+            "exboMin": 14.6438,
+            "exboMax": 17.227999,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "5rg1",
+        "wikiName": "Cursed Rose",
+        "exboName": "Cursed Rose",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 3.315,
+            "wikiMax": 11.6,
+            "exboMin": 11.6348,
+            "exboMax": 13.688,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "explosion_dmg_factor",
+            "wikiMin": 2.55,
+            "wikiMax": 8.9,
+            "exboMin": 8.9267,
+            "exboMax": 10.501999,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "5rm0",
+        "wikiName": "Tiny key",
+        "exboName": "Tiny key",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bullet_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "recoil_bonus",
+            "wikiMin": -4.4,
+            "wikiMax": -1.275,
+            "exboMin": -5.192,
+            "exboMax": -4.4132,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "wiggle_bonus",
+            "wikiMin": -6.1,
+            "wikiMax": -1.785,
+            "exboMin": -7.1979995,
+            "exboMax": -6.1183,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "5rog",
+        "wikiName": "Leech",
+        "exboName": "Leech",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "reaction_to_tear"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 1.53,
+            "wikiMax": 5.2,
+            "exboMin": 5.2156,
+            "exboMax": 6.1359997,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "radiation_accumulation",
+            "wikiMin": -2.16,
+            "wikiMax": -1.8360001,
+            "exboMin": -2.5488,
+            "exboMax": -2.16648,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "radiation_protection",
+            "wikiMin": 8.5,
+            "wikiMax": 20,
+            "exboMin": 20.06,
+            "exboMax": 23.599998,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "5rpq",
+        "wikiName": "Amberite",
+        "exboName": "Amberite",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "speed_modifier"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 3.23,
+            "wikiMax": 11.2,
+            "exboMin": 11.2336,
+            "exboMax": 13.216,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "sprint_speed_modifier",
+            "wikiMin": 0.51000005,
+            "wikiMax": 0.6,
+            "exboMin": 0.6018,
+            "exboMax": 0.708,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.765,
+            "wikiMax": 2.6,
+            "exboMin": 2.6078,
+            "exboMax": 3.0679998,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "thermal_accumulation",
+            "wikiMin": -1.28,
+            "wikiMax": -1.088,
+            "exboMin": -1.5103999,
+            "exboMax": -1.28384,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "5rwq",
+        "wikiName": "Shard",
+        "exboName": "Shard",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 2.295,
+            "wikiMax": 8.1,
+            "exboMin": 8.1243,
+            "exboMax": 9.558,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.595,
+            "wikiMax": 1.9,
+            "exboMin": 1.9057,
+            "exboMax": 2.2419999,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "5rzo",
+        "wikiName": "Rime",
+        "exboName": "Rime",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "explosion_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 2.89,
+            "wikiMax": 10.1,
+            "exboMin": 10.1303005,
+            "exboMax": 11.918,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "tear_dmg_factor",
+            "wikiMin": 3.06,
+            "wikiMax": 10.7,
+            "exboMin": 10.7321,
+            "exboMax": 12.625999,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "thermal_accumulation",
+            "wikiMin": -0.192,
+            "wikiMax": -0.1632,
+            "exboMin": -0.22656,
+            "exboMax": -0.192576,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "6goy",
+        "wikiName": "Loop",
+        "exboName": "Loop",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_accumulation"
+        ],
+        "valueDifferences": [
+          {
+            "key": "recoil_bonus",
+            "wikiMin": -2.6,
+            "wikiMax": -0.74,
+            "exboMin": -3.0679998,
+            "exboMax": -2.6078,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.33,
+            "wikiMax": 1.2,
+            "exboMin": 1.2036,
+            "exboMax": 1.416,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "sprint_speed_modifier",
+            "wikiMin": 1.36,
+            "wikiMax": 1.6,
+            "exboMin": 1.6048,
+            "exboMax": 1.8879999,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "7z77",
+        "wikiName": "Jelly",
+        "exboName": "Jelly",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "tear_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 3.21,
+            "wikiMax": 11.6,
+            "exboMin": 11.6348,
+            "exboMax": 13.688,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 2.39,
+            "wikiMax": 8.7,
+            "exboMin": 8.7261,
+            "exboMax": 10.266,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "9n1w",
+        "wikiName": "Berry",
+        "exboName": "Berry",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bleeding_accumulation",
+            "wikiMin": -1.1,
+            "wikiMax": -0.34,
+            "exboMin": -1.298,
+            "exboMax": -1.1033,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.255,
+            "wikiMax": 0.9,
+            "exboMin": 0.90269995,
+            "exboMax": 1.0619999,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "9nd0",
+        "wikiName": "Spectral Crystal",
+        "exboName": "Spectral Crystal",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "electra_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "psycho_accumulation",
+            "wikiMin": -2.16,
+            "wikiMax": -1.8360001,
+            "exboMin": -2.5488,
+            "exboMax": -2.16648,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "psycho_protection",
+            "wikiMin": 8.5,
+            "wikiMax": 20,
+            "exboMin": 20.06,
+            "exboMax": 23.599998,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "reaction_to_electroshock",
+            "wikiMin": 0.765,
+            "wikiMax": 0.9,
+            "exboMin": 0.90269995,
+            "exboMax": 1.0619999,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.51,
+            "wikiMax": 1.7,
+            "exboMin": 1.7051,
+            "exboMax": 2.006,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "9nml",
+        "wikiName": "Burr",
+        "exboName": "Burr",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "radiation_accumulation",
+            "wikiMin": -2.16,
+            "wikiMax": -1.8360001,
+            "exboMin": -2.5488,
+            "exboMax": -2.16648,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.12,
+            "wikiMax": 0.35,
+            "exboMin": 0.35105,
+            "exboMax": 0.413,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "sprint_speed_modifier",
+            "wikiMin": 0.425,
+            "wikiMax": 0.5,
+            "exboMin": 0.5015,
+            "exboMax": 0.59,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 2.635,
+            "wikiMax": 9.3,
+            "exboMin": 9.3279,
+            "exboMax": 10.974,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "9nvy",
+        "wikiName": "Sponge",
+        "exboName": "Sponge",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "explosion_dmg_factor",
+            "wikiMin": 2.63,
+            "wikiMax": 9.6,
+            "exboMin": 9.6288,
+            "exboMax": 11.328,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "reaction_to_tear",
+            "wikiMin": 0.765,
+            "wikiMax": 0.9,
+            "exboMin": 0.90269995,
+            "exboMax": 1.0619999,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "tear_dmg_factor",
+            "wikiMin": 2.635,
+            "wikiMax": 9.1,
+            "exboMin": 9.1273,
+            "exboMax": 10.738,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "g34p",
+        "wikiName": "Peg-Top",
+        "exboName": "Peg-Top",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bullet_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "explosion_dmg_factor",
+            "wikiMin": 2.06,
+            "wikiMax": 7.5,
+            "exboMin": 6.375,
+            "exboMax": 7.5,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "tear_dmg_factor",
+            "wikiMin": 4.03,
+            "wikiMax": 14.5,
+            "exboMin": 12.325001,
+            "exboMax": 14.5,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "gy06",
+        "wikiName": "Scrubber",
+        "exboName": "Scrubber",
+        "missingInWiki": [],
+        "missingInExbo": [],
+        "valueDifferences": [
+          {
+            "key": "biological_accumulation",
+            "wikiMin": -2.16,
+            "wikiMax": -0.748,
+            "exboMin": -2.16,
+            "exboMax": -1.8360001,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 1.48,
+            "wikiMax": 5.4,
+            "exboMin": 4.59,
+            "exboMax": 5.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.9,
+            "wikiMax": 3.1,
+            "exboMin": 2.635,
+            "exboMax": 3.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "gy10",
+        "wikiName": "Red Crystal",
+        "exboName": "Red Crystal",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "burn_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 2.21,
+            "wikiMax": 7.8,
+            "exboMin": 6.63,
+            "exboMax": 7.8,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "thermal_protection",
+            "wikiMin": 8.5,
+            "wikiMax": 20,
+            "exboMin": 17,
+            "exboMax": 20,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "gy7p",
+        "wikiName": "Retina",
+        "exboName": "Retina",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_accumulation"
+        ],
+        "valueDifferences": [
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.288,
+            "wikiMax": 1,
+            "exboMin": 0.85,
+            "exboMax": 1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.85,
+            "wikiMax": 2.9,
+            "exboMin": 2.4650002,
+            "exboMax": 2.9,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "gyg5",
+        "wikiName": "Shrimp",
+        "exboName": "Shrimp",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "explosion_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 2.04,
+            "wikiMax": 7.1,
+            "exboMin": 6.0350003,
+            "exboMax": 7.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 3.145,
+            "wikiMax": 10.9,
+            "exboMin": 9.265,
+            "exboMax": 10.9,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "gyjg",
+        "wikiName": "Acid Crystal",
+        "exboName": "Acid Crystal",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "chemical_burn_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "biological_protection",
+            "wikiMin": 8.5,
+            "wikiMax": 20,
+            "exboMin": 17,
+            "exboMax": 20,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.34,
+            "wikiMax": 1.2,
+            "exboMin": 1.0200001,
+            "exboMax": 1.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "gyln",
+        "wikiName": "Frost",
+        "exboName": "Frost",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 1.48,
+            "wikiMax": 5.4,
+            "exboMin": 4.59,
+            "exboMax": 5.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "tear_dmg_factor",
+            "wikiMin": 3.74,
+            "wikiMax": 13,
+            "exboMin": 11.05,
+            "exboMax": 13,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "gyn0",
+        "wikiName": "Comet",
+        "exboName": "Comet",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.16,
+            "wikiMax": 0.6,
+            "exboMin": 0.51000005,
+            "exboMax": 0.6,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 4.59,
+            "wikiMax": 16.2,
+            "exboMin": 13.770001,
+            "exboMax": 16.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "gypg",
+        "wikiName": "Embryo",
+        "exboName": "Embryo",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "speed_modifier"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bleeding_accumulation",
+            "wikiMin": -0.7,
+            "wikiMax": -0.24,
+            "exboMin": -0.7,
+            "exboMax": -0.595,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.425,
+            "wikiMax": 1.5,
+            "exboMin": 1.2750001,
+            "exboMax": 1.5,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "gyq5",
+        "wikiName": "Spiral",
+        "exboName": "Spiral",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "heal_efficiency"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 2.465,
+            "wikiMax": 8.7,
+            "exboMin": 7.395,
+            "exboMax": 8.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.28,
+            "wikiMax": 1,
+            "exboMin": 0.85,
+            "exboMax": 1,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "gyv6",
+        "wikiName": "Rose",
+        "exboName": "Rose",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "max_weight_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 2.465,
+            "wikiMax": 8.7,
+            "exboMin": 7.395,
+            "exboMax": 8.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "explosion_dmg_factor",
+            "wikiMin": 1.955,
+            "wikiMax": 6.7,
+            "exboMin": 5.695,
+            "exboMax": 6.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "j3p6",
+        "wikiName": "Fossil",
+        "exboName": "Fossil",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "artefakt_heal",
+            "wikiMin": 0.165,
+            "wikiMax": 0.5,
+            "exboMin": 0.425,
+            "exboMax": 0.5,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.595,
+            "wikiMax": 2.1,
+            "exboMin": 1.785,
+            "exboMax": 2.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "jkj4",
+        "wikiName": "Lemna",
+        "exboName": "Lemna",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "chemical_burn_dmg_factor",
+          "regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "biological_protection",
+            "wikiMin": 17,
+            "wikiMax": 45,
+            "exboMin": 38.25,
+            "exboMax": 45,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "jkml",
+        "wikiName": "Eye of the Storm",
+        "exboName": "Eye of the Storm",
+        "missingInWiki": [],
+        "missingInExbo": [],
+        "valueDifferences": [
+          {
+            "key": "biological_protection",
+            "wikiMin": 4.25,
+            "wikiMax": 45,
+            "exboMin": 38.25,
+            "exboMax": 45,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.2,
+            "wikiMax": 0.75,
+            "exboMin": 0.63750005,
+            "exboMax": 0.75,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "thermal_protection",
+            "wikiMin": 8.5,
+            "wikiMax": 45,
+            "exboMin": 38.25,
+            "exboMax": 45,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "jkq7",
+        "wikiName": "Magma",
+        "exboName": "Magma",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.576,
+            "wikiMax": 2.1,
+            "exboMin": 1.785,
+            "exboMax": 2.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stopping_protection",
+            "wikiMin": 1.73,
+            "wikiMax": 6.1,
+            "exboMin": 5.185,
+            "exboMax": 6.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "jky6",
+        "wikiName": "Raisin",
+        "exboName": "Raisin",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.45,
+            "wikiMax": 1.6,
+            "exboMin": 1.36,
+            "exboMax": 1.6,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 6.12,
+            "wikiMax": 21.6,
+            "exboMin": 18.36,
+            "exboMax": 21.6,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "k3yv",
+        "wikiName": "Hoop",
+        "exboName": "Hoop",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 2.55,
+            "wikiMax": 9.1,
+            "exboMin": 7.7350006,
+            "exboMax": 9.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.82,
+            "wikiMax": 3,
+            "exboMin": 2.5500002,
+            "exboMax": 3,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "kq4v",
+        "wikiName": "Dark Viburnum",
+        "exboName": "Dark Viburnum",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "speed_modifier"
+        ],
+        "valueDifferences": [
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 1.24,
+            "wikiMax": 4.4,
+            "exboMin": 3.7400002,
+            "exboMax": 4.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 1.32,
+            "wikiMax": 4.8,
+            "exboMin": 4.0800004,
+            "exboMax": 4.8,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "kqgy",
+        "wikiName": "Bracelet",
+        "exboName": "Bracelet",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.32,
+            "wikiMax": 1.2,
+            "exboMin": 1.0200001,
+            "exboMax": 1.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 1.02,
+            "wikiMax": 3.6,
+            "exboMin": 3.06,
+            "exboMax": 3.6,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "kqj3",
+        "wikiName": "Snail",
+        "exboName": "Snail",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_protection"
+        ],
+        "valueDifferences": [
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.425,
+            "wikiMax": 1.3,
+            "exboMin": 1.105,
+            "exboMax": 1.3,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 3.57,
+            "wikiMax": 12.4,
+            "exboMin": 10.54,
+            "exboMax": 12.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "kqoj",
+        "wikiName": "Heel",
+        "exboName": "Heel",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "tear_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "explosion_dmg_factor",
+            "wikiMin": 3.7,
+            "wikiMax": 13.4,
+            "exboMin": 11.39,
+            "exboMax": 13.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 4.335,
+            "wikiMax": 15.3,
+            "exboMin": 13.005,
+            "exboMax": 15.3,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "kqp0",
+        "wikiName": "Firebird",
+        "exboName": "Firebird",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_accumulation"
+        ],
+        "valueDifferences": [
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 2.89,
+            "wikiMax": 10.2,
+            "exboMin": 8.67,
+            "exboMax": 10.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.595,
+            "wikiMax": 1.9,
+            "exboMin": 1.615,
+            "exboMax": 1.9,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "kqr0",
+        "wikiName": "Helium",
+        "exboName": "Helium",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.57,
+            "wikiMax": 2.1,
+            "exboMin": 1.785,
+            "exboMax": 2.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.32,
+            "wikiMax": 1.1,
+            "exboMin": 0.93500006,
+            "exboMax": 1.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "lj0j",
+        "wikiName": "Coil",
+        "exboName": "Coil",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_protection"
+        ],
+        "valueDifferences": [
+          {
+            "key": "burn_dmg_factor",
+            "wikiMin": 4.2,
+            "wikiMax": 16.2,
+            "exboMin": 13.770001,
+            "exboMax": 16.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.33,
+            "wikiMax": 1.2,
+            "exboMin": 1.0200001,
+            "exboMax": 1.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "ljn2",
+        "wikiName": "Chilly",
+        "exboName": "Chilly",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "explosion_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "combustion_accumulation",
+            "wikiMin": -0.4,
+            "wikiMax": -0.17,
+            "exboMin": -0.4,
+            "exboMax": -0.34,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.765,
+            "wikiMax": 2.7,
+            "exboMin": 2.295,
+            "exboMax": 2.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "ljpq",
+        "wikiName": "Polyhedron",
+        "exboName": "Polyhedron",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "speed_modifier",
+          "stalker.tooltip.item.lifesaver_sniper.info.blocking_damage",
+          "stalker.tooltip.item.lifesaver_sniper.info.trigger_damage",
+          "stalker.tooltip.item.lifesaver.info.cost",
+          "stalker.tooltip.item.lifesaver.info.recharge"
+        ],
+        "valueDifferences": [
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 5.76,
+            "wikiMax": 20.8,
+            "exboMin": 17.68,
+            "exboMax": 20.8,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.91,
+            "wikiMax": 3.2,
+            "exboMin": 2.72,
+            "exboMax": 3.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "ljrj",
+        "wikiName": "Radiator",
+        "exboName": "Radiator",
+        "missingInWiki": [],
+        "missingInExbo": [],
+        "valueDifferences": [
+          {
+            "key": "combustion_accumulation",
+            "wikiMin": -0.3,
+            "wikiMax": -0.08,
+            "exboMin": -0.3,
+            "exboMax": -0.25500003,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.16,
+            "wikiMax": 0.5,
+            "exboMin": 0.425,
+            "exboMax": 0.5,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "thermal_accumulation",
+            "wikiMin": -2.16,
+            "wikiMax": -0.748,
+            "exboMin": -2.16,
+            "exboMax": -1.8360001,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "q1lk",
+        "wikiName": "Gills",
+        "exboName": "Gills",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.425,
+            "wikiMax": 1.3,
+            "exboMin": 1.105,
+            "exboMax": 1.3,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.82,
+            "wikiMax": 3,
+            "exboMin": 2.5500002,
+            "exboMax": 3,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "qo06",
+        "wikiName": "Transformer",
+        "exboName": "Transformer",
+        "missingInWiki": [],
+        "missingInExbo": [],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 1.87,
+            "wikiMax": 6.5,
+            "exboMin": 5.525,
+            "exboMax": 6.5,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "psycho_accumulation",
+            "wikiMin": -2.16,
+            "wikiMax": -0.748,
+            "exboMin": -2.16,
+            "exboMax": -1.8360001,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 3.995,
+            "wikiMax": 13.9,
+            "exboMin": 11.815,
+            "exboMax": 13.9,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "qo59",
+        "wikiName": "Gum",
+        "exboName": "Gum",
+        "missingInWiki": [],
+        "missingInExbo": [],
+        "valueDifferences": [
+          {
+            "key": "bleeding_accumulation",
+            "wikiMin": -1.1,
+            "wikiMax": -0.32,
+            "exboMin": -1.1,
+            "exboMax": -0.93500006,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "radiation_accumulation",
+            "wikiMin": -2.16,
+            "wikiMax": -0.748,
+            "exboMin": -2.16,
+            "exboMax": -1.8360001,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.425,
+            "wikiMax": 1.4,
+            "exboMin": 1.19,
+            "exboMax": 1.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "qo94",
+        "wikiName": "Chicken God",
+        "exboName": "Chicken God",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.49,
+            "wikiMax": 1.7,
+            "exboMin": 1.445,
+            "exboMax": 1.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 2.465,
+            "wikiMax": 8.7,
+            "exboMin": 7.395,
+            "exboMax": 8.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "qodk",
+        "wikiName": "Bubblegum",
+        "exboName": "Bubblegum",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "tear_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 5.525,
+            "wikiMax": 19.3,
+            "exboMin": 16.405,
+            "exboMax": 19.3,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "explosion_dmg_factor",
+            "wikiMin": 4.25,
+            "wikiMax": 14.9,
+            "exboMin": 12.665,
+            "exboMax": 14.9,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "qokj",
+        "wikiName": "Pumpkin",
+        "exboName": "Pumpkin",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "health_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 2.06,
+            "wikiMax": 7.3,
+            "exboMin": 6.2050004,
+            "exboMax": 7.3,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.99,
+            "wikiMax": 3.4,
+            "exboMin": 2.89,
+            "exboMax": 3.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "qoq6",
+        "wikiName": "Sun",
+        "exboName": "Sun",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_protection"
+        ],
+        "valueDifferences": [
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.595,
+            "wikiMax": 1.9,
+            "exboMin": 1.615,
+            "exboMax": 1.9,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.595,
+            "wikiMax": 2.1,
+            "exboMin": 1.785,
+            "exboMax": 2.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "rn1z",
+        "wikiName": "Opal",
+        "exboName": "Opal",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stopping_protection"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 5.35,
+            "wikiMax": 19.3,
+            "exboMin": 16.405,
+            "exboMax": 19.3,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 5.93,
+            "wikiMax": 21.6,
+            "exboMin": 18.36,
+            "exboMax": 21.6,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "rnkl",
+        "wikiName": "Snares",
+        "exboName": "Snares",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.206,
+            "wikiMax": 0.7,
+            "exboMin": 0.595,
+            "exboMax": 0.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "tear_dmg_factor",
+            "wikiMin": 4.78,
+            "wikiMax": 17.4,
+            "exboMin": 14.79,
+            "exboMax": 17.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "rnvg",
+        "wikiName": "Cone",
+        "exboName": "Cone",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "heal_efficiency"
+        ],
+        "valueDifferences": [
+          {
+            "key": "combustion_accumulation",
+            "wikiMin": -0.2,
+            "wikiMax": -0.082,
+            "exboMin": -0.2,
+            "exboMax": -0.17,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 4.28,
+            "wikiMax": 15.2,
+            "exboMin": 12.92,
+            "exboMax": 15.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "w4jo",
+        "wikiName": "Black Hole",
+        "exboName": "Black Hole",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 2.8,
+            "wikiMax": 10.1,
+            "exboMin": 8.585001,
+            "exboMax": 10.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 1.4,
+            "wikiMax": 5.1,
+            "exboMin": 4.335,
+            "exboMax": 5.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "w4no",
+        "wikiName": "Colophony",
+        "exboName": "Colophony",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "health_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 2.38,
+            "wikiMax": 8.7,
+            "exboMin": 7.395,
+            "exboMax": 8.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.765,
+            "wikiMax": 2.7,
+            "exboMin": 2.295,
+            "exboMax": 2.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "wg3p",
+        "wikiName": "Disintegrator",
+        "exboName": "Disintegrator",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "electra_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 3.57,
+            "wikiMax": 12.4,
+            "exboMin": 10.54,
+            "exboMax": 12.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.57,
+            "wikiMax": 1.9,
+            "exboMin": 1.615,
+            "exboMax": 1.9,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "wg53",
+        "wikiName": "Atom",
+        "exboName": "Atom",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_accumulation"
+        ],
+        "valueDifferences": [
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.331,
+            "wikiMax": 1,
+            "exboMin": 0.85,
+            "exboMax": 1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.989,
+            "wikiMax": 3.4,
+            "exboMin": 2.89,
+            "exboMax": 3.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "wg62",
+        "wikiName": "White Rose",
+        "exboName": "White Rose",
+        "missingInWiki": [],
+        "missingInExbo": [],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 2.125,
+            "wikiMax": 7.3,
+            "exboMin": 6.2050004,
+            "exboMax": 7.3,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "psycho_accumulation",
+            "wikiMin": -2.16,
+            "wikiMax": -0.748,
+            "exboMin": -2.16,
+            "exboMax": -1.8360001,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 2.14,
+            "wikiMax": 7.6,
+            "exboMin": 6.46,
+            "exboMax": 7.6,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "wgko",
+        "wikiName": "Inside Out Rose",
+        "exboName": "Inside Out Rose",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 3.485,
+            "wikiMax": 12.2,
+            "exboMin": 10.37,
+            "exboMax": 12.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stopping_protection",
+            "wikiMin": 2.975,
+            "wikiMax": 10.4,
+            "exboMin": 8.84,
+            "exboMax": 10.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "wglp",
+        "wikiName": "Viburnum Branch",
+        "exboName": "Viburnum Branch",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 3.54,
+            "wikiMax": 12.8,
+            "exboMin": 10.88,
+            "exboMax": 12.8,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "health_bonus",
+            "wikiMin": 0.425,
+            "wikiMax": 1.5,
+            "exboMin": 1.2750001,
+            "exboMax": 1.5,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "wgr3",
+        "wikiName": "Dark Crystal",
+        "exboName": "Dark Crystal",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "health_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.68,
+            "wikiMax": 2.2,
+            "exboMin": 1.8700001,
+            "exboMax": 2.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.68,
+            "wikiMax": 2.3,
+            "exboMin": 1.955,
+            "exboMax": 2.3,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "wgvd",
+        "wikiName": "Inkwell",
+        "exboName": "Inkwell",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "health_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.765,
+            "wikiMax": 2.7,
+            "exboMin": 2.295,
+            "exboMax": 2.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "tear_dmg_factor",
+            "wikiMin": 3.37,
+            "wikiMax": 12.2,
+            "exboMin": 10.37,
+            "exboMax": 12.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "wgwz",
+        "wikiName": "Fahrenheit",
+        "exboName": "Fahrenheit",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 2.635,
+            "wikiMax": 9.3,
+            "exboMin": 7.905,
+            "exboMax": 9.3,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 2.88,
+            "wikiMax": 10.4,
+            "exboMin": 8.84,
+            "exboMax": 10.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "wgzd",
+        "wikiName": "Frame",
+        "exboName": "Frame",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "psycho_accumulation"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 2.635,
+            "wikiMax": 9.3,
+            "exboMin": 7.905,
+            "exboMax": 9.3,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.68,
+            "wikiMax": 2.2,
+            "exboMin": 1.8700001,
+            "exboMax": 2.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "y54z",
+        "wikiName": "Kettlebell",
+        "exboName": "Kettlebell",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "burn_dmg_factor",
+          "speed_modifier"
+        ],
+        "valueDifferences": [
+          {
+            "key": "thermal_protection",
+            "wikiMin": 17,
+            "wikiMax": 45,
+            "exboMin": 38.25,
+            "exboMax": 45,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "y5jk",
+        "wikiName": "Veiner",
+        "exboName": "Veiner",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 2.295,
+            "wikiMax": 8.1,
+            "exboMin": 6.8850007,
+            "exboMax": 8.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 1.785,
+            "wikiMax": 6.1,
+            "exboMin": 5.185,
+            "exboMax": 6.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "y5k0",
+        "wikiName": "Whirlwind",
+        "exboName": "Whirlwind",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "combustion_accumulation"
+        ],
+        "valueDifferences": [
+          {
+            "key": "electra_dmg_factor",
+            "wikiMin": 3.78,
+            "wikiMax": 13.7,
+            "exboMin": 11.645,
+            "exboMax": 13.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.32,
+            "wikiMax": 1.1,
+            "exboMin": 0.93500006,
+            "exboMax": 1.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "y5m3",
+        "wikiName": "Cryogen",
+        "exboName": "Cryogen",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bullet_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 1.2,
+            "wikiMax": 5.8,
+            "exboMin": 4.9300003,
+            "exboMax": 5.8,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.765,
+            "wikiMax": 2.7,
+            "exboMin": 2.295,
+            "exboMax": 2.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "y5nz",
+        "wikiName": "Wolf Tears",
+        "exboName": "Wolf Tears",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bullet_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 1.275,
+            "wikiMax": 4.4,
+            "exboMin": 3.7400002,
+            "exboMax": 4.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 2.55,
+            "wikiMax": 9.3,
+            "exboMin": 7.905,
+            "exboMax": 9.3,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "y5ro",
+        "wikiName": "Egg",
+        "exboName": "Egg",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_protection"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 5.27,
+            "wikiMax": 18.6,
+            "exboMin": 15.81,
+            "exboMax": 18.6,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 5.525,
+            "wikiMax": 19.4,
+            "exboMin": 16.49,
+            "exboMax": 19.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "y5vw",
+        "wikiName": "Crust",
+        "exboName": "Crust",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_protection"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bleeding_accumulation",
+            "wikiMin": -0.8,
+            "wikiMax": -0.255,
+            "exboMin": -0.8,
+            "exboMax": -0.68,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.58,
+            "wikiMax": 2,
+            "exboMin": 1.7,
+            "exboMax": 2,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "y5w3",
+        "wikiName": "Prism",
+        "exboName": "Prism",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 4.165,
+            "wikiMax": 14.5,
+            "exboMin": 12.325001,
+            "exboMax": 14.5,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "explosion_dmg_factor",
+            "wikiMin": 3.23,
+            "wikiMax": 11.2,
+            "exboMin": 9.52,
+            "exboMax": 11.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "y5yw",
+        "wikiName": "Dumbbell",
+        "exboName": "Dumbbell",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "max_weight_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 3.21,
+            "wikiMax": 11.5,
+            "exboMin": 9.775001,
+            "exboMax": 11.5,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "tear_dmg_factor",
+            "wikiMin": 3.79,
+            "wikiMax": 13.7,
+            "exboMin": 11.645,
+            "exboMax": 13.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "yq3o",
+        "wikiName": "Larva",
+        "exboName": "Larva",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "health_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 2.04,
+            "wikiMax": 7.2,
+            "exboMin": 6.12,
+            "exboMax": 7.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 5.11,
+            "wikiMax": 18.5,
+            "exboMin": 15.725,
+            "exboMax": 18.5,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "zjzn",
+        "wikiName": "Timber",
+        "exboName": "Timber",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "regeneration_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 2.22,
+            "wikiMax": 8.1,
+            "exboMin": 6.8850007,
+            "exboMax": 8.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 1.15,
+            "wikiMax": 4.1,
+            "exboMin": 3.4850001,
+            "exboMax": 4.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "zy32",
+        "wikiName": "Battery",
+        "exboName": "Battery",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "electra_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.24,
+            "wikiMax": 0.85,
+            "exboMin": 0.7225,
+            "exboMax": 0.85,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 3.12,
+            "wikiMax": 11.4,
+            "exboMin": 9.69,
+            "exboMax": 11.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "zy7y",
+        "wikiName": "Hedgehog",
+        "exboName": "Hedgehog",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_bonus",
+          "tear_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "radiation_protection",
+            "wikiMin": 17,
+            "wikiMax": 45,
+            "exboMin": 38.25,
+            "exboMax": 45,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "zyly",
+        "wikiName": "Onion",
+        "exboName": "Onion",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "bleeding_protection"
+        ],
+        "valueDifferences": [
+          {
+            "key": "bullet_dmg_factor",
+            "wikiMin": 2.04,
+            "wikiMax": 7,
+            "exboMin": 5.9500003,
+            "exboMax": 7,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_bonus",
+            "wikiMin": 2.21,
+            "wikiMax": 7.8,
+            "exboMin": 6.63,
+            "exboMax": 7.8,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "zymn",
+        "wikiName": "Tallow",
+        "exboName": "Tallow",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "explosion_dmg_factor"
+        ],
+        "valueDifferences": [
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 2.89,
+            "wikiMax": 10.2,
+            "exboMin": 8.67,
+            "exboMax": 10.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.51,
+            "wikiMax": 1.9,
+            "exboMin": 1.615,
+            "exboMax": 1.9,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "zyo9",
+        "wikiName": "Swamp Rot",
+        "exboName": "Swamp Rot",
+        "missingInWiki": [],
+        "missingInExbo": [],
+        "valueDifferences": [
+          {
+            "key": "biological_accumulation",
+            "wikiMin": -2.16,
+            "wikiMax": -0.748,
+            "exboMin": -2.16,
+            "exboMax": -1.8360001,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "heal_efficiency",
+            "wikiMin": 1.15,
+            "wikiMax": 4.2,
+            "exboMin": 3.57,
+            "exboMax": 4.2,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.65,
+            "wikiMax": 2.4,
+            "exboMin": 2.0400002,
+            "exboMax": 2.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "zypm",
+        "wikiName": "Golden Prima",
+        "exboName": "Golden Prima",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "stamina_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "max_weight_bonus",
+            "wikiMin": 3.57,
+            "wikiMax": 12.4,
+            "exboMin": 10.54,
+            "exboMax": 12.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.2,
+            "wikiMax": 0.7,
+            "exboMin": 0.595,
+            "exboMax": 0.7,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "zyqk",
+        "wikiName": "Leaded Glass",
+        "exboName": "Leaded Glass",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "health_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "combustion_accumulation",
+            "wikiMin": -0.2,
+            "wikiMax": -0.085,
+            "exboMin": -0.2,
+            "exboMax": -0.17,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.41,
+            "wikiMax": 1.4,
+            "exboMin": 1.19,
+            "exboMax": 1.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "zyrm",
+        "wikiName": "Mirror",
+        "exboName": "Mirror",
+        "missingInWiki": [],
+        "missingInExbo": [],
+        "valueDifferences": [
+          {
+            "key": "psycho_protection",
+            "wikiMin": 16.47,
+            "wikiMax": 45,
+            "exboMin": 38.25,
+            "exboMax": 45,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "radiation_protection",
+            "wikiMin": 16.47,
+            "wikiMax": 45,
+            "exboMin": 38.25,
+            "exboMax": 45,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "speed_modifier",
+            "wikiMin": 0.207,
+            "wikiMax": 0.75,
+            "exboMin": 0.63750005,
+            "exboMax": 0.75,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "zyv9",
+        "wikiName": "Lollipop",
+        "exboName": "Lollipop",
+        "missingInWiki": [],
+        "missingInExbo": [
+          "health_bonus"
+        ],
+        "valueDifferences": [
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.595,
+            "wikiMax": 2.1,
+            "exboMin": 1.785,
+            "exboMax": 2.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "tear_dmg_factor",
+            "wikiMin": 1.72,
+            "wikiMax": 6.1,
+            "exboMin": 5.185,
+            "exboMax": 6.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      },
+      {
+        "id": "zyw2",
+        "wikiName": "Candlelight",
+        "exboName": "Candlelight",
+        "missingInWiki": [],
+        "missingInExbo": [],
+        "valueDifferences": [
+          {
+            "key": "regeneration_bonus",
+            "wikiMin": 0.34,
+            "wikiMax": 1.1,
+            "exboMin": 0.93500006,
+            "exboMax": 1.1,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "stamina_regeneration_bonus",
+            "wikiMin": 0.68,
+            "wikiMax": 2.4,
+            "exboMin": 2.0400002,
+            "exboMax": 2.4,
+            "wikiPositive": true,
+            "exboPositive": true
+          },
+          {
+            "key": "thermal_accumulation",
+            "wikiMin": -2.16,
+            "wikiMax": -0.35,
+            "exboMin": -2.16,
+            "exboMax": -1.8360001,
+            "wikiPositive": true,
+            "exboPositive": true
+          }
+        ]
+      }
+    ],
+    "variantMismatches": [
+      {
+        "id": "04yr",
+        "wikiName": "Cycle",
+        "exboName": "Cycle",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "1k4q",
+        "wikiName": "Lard",
+        "exboName": "Lard",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "1k96",
+        "wikiName": "Rattle",
+        "exboName": "Rattle",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "1kdg",
+        "wikiName": "Sticky Burr",
+        "exboName": "Sticky Burr",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "1kv2",
+        "wikiName": "Prima",
+        "exboName": "Prima",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "1kw1",
+        "wikiName": "Crystal of Inside Out",
+        "exboName": "Crystal of Inside Out",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "49zn",
+        "wikiName": "Stress fest",
+        "exboName": "Stress fest",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "4l1r",
+        "wikiName": "Proto-Onion",
+        "exboName": "Proto-Onion",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "4l7p",
+        "wikiName": "Scallop",
+        "exboName": "Scallop",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "4lkp",
+        "wikiName": "Ilyich Lamp",
+        "exboName": "Ilyich Lamp",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "4lml",
+        "wikiName": "Snake Eye",
+        "exboName": "Snake Eye",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "4lpo",
+        "wikiName": "Static",
+        "exboName": "Static",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "4lrn",
+        "wikiName": "Bismuth",
+        "exboName": "Bismuth",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "51l0",
+        "wikiName": "Mug",
+        "exboName": "Mug",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "5r04",
+        "wikiName": "Phlegm",
+        "exboName": "Phlegm",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "5r34",
+        "wikiName": "Heart",
+        "exboName": "Heart",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "5r5g",
+        "wikiName": "Ice Hedgehog",
+        "exboName": "Ice Hedgehog",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "5rd1",
+        "wikiName": "Steel Hedgehog",
+        "exboName": "Steel Hedgehog",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "5rg1",
+        "wikiName": "Cursed Rose",
+        "exboName": "Cursed Rose",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "5rm0",
+        "wikiName": "Tiny key",
+        "exboName": "Tiny key",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "5rog",
+        "wikiName": "Leech",
+        "exboName": "Leech",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "5rpq",
+        "wikiName": "Amberite",
+        "exboName": "Amberite",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "5rwq",
+        "wikiName": "Shard",
+        "exboName": "Shard",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "5rzo",
+        "wikiName": "Rime",
+        "exboName": "Rime",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "6goy",
+        "wikiName": "Loop",
+        "exboName": "Loop",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "7z77",
+        "wikiName": "Jelly",
+        "exboName": "Jelly",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "9n1w",
+        "wikiName": "Berry",
+        "exboName": "Berry",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "9n7z",
+        "wikiName": "Rubik",
+        "exboName": "9n7z",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 0
+      },
+      {
+        "id": "9nd0",
+        "wikiName": "Spectral Crystal",
+        "exboName": "Spectral Crystal",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "9nml",
+        "wikiName": "Burr",
+        "exboName": "Burr",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "9nvy",
+        "wikiName": "Sponge",
+        "exboName": "Sponge",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "azq5t9so",
+        "wikiName": "Regalia",
+        "exboName": "azq5t9so",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 0
+      },
+      {
+        "id": "g34p",
+        "wikiName": "Peg-Top",
+        "exboName": "Peg-Top",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "gy06",
+        "wikiName": "Scrubber",
+        "exboName": "Scrubber",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "gy10",
+        "wikiName": "Red Crystal",
+        "exboName": "Red Crystal",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "gy7p",
+        "wikiName": "Retina",
+        "exboName": "Retina",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "gyg5",
+        "wikiName": "Shrimp",
+        "exboName": "Shrimp",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "gyjg",
+        "wikiName": "Acid Crystal",
+        "exboName": "Acid Crystal",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "gyln",
+        "wikiName": "Frost",
+        "exboName": "Frost",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "gyn0",
+        "wikiName": "Comet",
+        "exboName": "Comet",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "gypg",
+        "wikiName": "Embryo",
+        "exboName": "Embryo",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "gyq5",
+        "wikiName": "Spiral",
+        "exboName": "Spiral",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "gyv6",
+        "wikiName": "Rose",
+        "exboName": "Rose",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "j3p6",
+        "wikiName": "Fossil",
+        "exboName": "Fossil",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "jkj4",
+        "wikiName": "Lemna",
+        "exboName": "Lemna",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "jkml",
+        "wikiName": "Eye of the Storm",
+        "exboName": "Eye of the Storm",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "jkq7",
+        "wikiName": "Magma",
+        "exboName": "Magma",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "jky6",
+        "wikiName": "Raisin",
+        "exboName": "Raisin",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "k3yv",
+        "wikiName": "Hoop",
+        "exboName": "Hoop",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "kq4v",
+        "wikiName": "Dark Viburnum",
+        "exboName": "Dark Viburnum",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "kqgy",
+        "wikiName": "Bracelet",
+        "exboName": "Bracelet",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "kqj3",
+        "wikiName": "Snail",
+        "exboName": "Snail",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "kqoj",
+        "wikiName": "Heel",
+        "exboName": "Heel",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "kqp0",
+        "wikiName": "Firebird",
+        "exboName": "Firebird",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "kqr0",
+        "wikiName": "Helium",
+        "exboName": "Helium",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "lj0j",
+        "wikiName": "Coil",
+        "exboName": "Coil",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "ljn2",
+        "wikiName": "Chilly",
+        "exboName": "Chilly",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "ljpq",
+        "wikiName": "Polyhedron",
+        "exboName": "Polyhedron",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "ljrj",
+        "wikiName": "Radiator",
+        "exboName": "Radiator",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "q1lk",
+        "wikiName": "Gills",
+        "exboName": "Gills",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "qo06",
+        "wikiName": "Transformer",
+        "exboName": "Transformer",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "qo59",
+        "wikiName": "Gum",
+        "exboName": "Gum",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "qo94",
+        "wikiName": "Chicken God",
+        "exboName": "Chicken God",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "qodk",
+        "wikiName": "Bubblegum",
+        "exboName": "Bubblegum",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "qokj",
+        "wikiName": "Pumpkin",
+        "exboName": "Pumpkin",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "qoq6",
+        "wikiName": "Sun",
+        "exboName": "Sun",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "rn1z",
+        "wikiName": "Opal",
+        "exboName": "Opal",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "rnkl",
+        "wikiName": "Snares",
+        "exboName": "Snares",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "rnvg",
+        "wikiName": "Cone",
+        "exboName": "Cone",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "w4jo",
+        "wikiName": "Black Hole",
+        "exboName": "Black Hole",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "w4no",
+        "wikiName": "Colophony",
+        "exboName": "Colophony",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "wg3p",
+        "wikiName": "Disintegrator",
+        "exboName": "Disintegrator",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "wg53",
+        "wikiName": "Atom",
+        "exboName": "Atom",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "wg62",
+        "wikiName": "White Rose",
+        "exboName": "White Rose",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "wgko",
+        "wikiName": "Inside Out Rose",
+        "exboName": "Inside Out Rose",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "wglp",
+        "wikiName": "Viburnum Branch",
+        "exboName": "Viburnum Branch",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "wgr3",
+        "wikiName": "Dark Crystal",
+        "exboName": "Dark Crystal",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "wgvd",
+        "wikiName": "Inkwell",
+        "exboName": "Inkwell",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "wgwz",
+        "wikiName": "Fahrenheit",
+        "exboName": "Fahrenheit",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "wgzd",
+        "wikiName": "Frame",
+        "exboName": "Frame",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "x22sxr4",
+        "wikiName": "Wicked Hedgehog",
+        "exboName": "x22sxr4",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 0
+      },
+      {
+        "id": "y54z",
+        "wikiName": "Kettlebell",
+        "exboName": "Kettlebell",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "y5jk",
+        "wikiName": "Veiner",
+        "exboName": "Veiner",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "y5k0",
+        "wikiName": "Whirlwind",
+        "exboName": "Whirlwind",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "y5m3",
+        "wikiName": "Cryogen",
+        "exboName": "Cryogen",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "y5nz",
+        "wikiName": "Wolf Tears",
+        "exboName": "Wolf Tears",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "y5ro",
+        "wikiName": "Egg",
+        "exboName": "Egg",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "y5vw",
+        "wikiName": "Crust",
+        "exboName": "Crust",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "y5w3",
+        "wikiName": "Prism",
+        "exboName": "Prism",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "y5yw",
+        "wikiName": "Dumbbell",
+        "exboName": "Dumbbell",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "yq3o",
+        "wikiName": "Larva",
+        "exboName": "Larva",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "zjzn",
+        "wikiName": "Timber",
+        "exboName": "Timber",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "zy32",
+        "wikiName": "Battery",
+        "exboName": "Battery",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "zy7y",
+        "wikiName": "Hedgehog",
+        "exboName": "Hedgehog",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "zyly",
+        "wikiName": "Onion",
+        "exboName": "Onion",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "zymn",
+        "wikiName": "Tallow",
+        "exboName": "Tallow",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "zyo9",
+        "wikiName": "Swamp Rot",
+        "exboName": "Swamp Rot",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "zypm",
+        "wikiName": "Golden Prima",
+        "exboName": "Golden Prima",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "zyqk",
+        "wikiName": "Leaded Glass",
+        "exboName": "Leaded Glass",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "zyrm",
+        "wikiName": "Mirror",
+        "exboName": "Mirror",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "zyv9",
+        "wikiName": "Lollipop",
+        "exboName": "Lollipop",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      },
+      {
+        "id": "zyw2",
+        "wikiName": "Candlelight",
+        "exboName": "Candlelight",
+        "wikiVariantCount": 1,
+        "exboVariantCount": 16
+      }
+    ]
+  },
+  "containers": {
+    "wikiOnly": [],
+    "exboOnly": [],
+    "differences": []
+  },
+  "recommendation": {
+    "canonicalDefaults": {
+      "calculatorStats": "Wiki normalized snapshot until formula parity examples prove EXBO variant selection is equivalent",
+      "itemUniverse": "EXBO repo for complete variant coverage, Wiki snapshot for currently calculator-visible base artifacts",
+      "names": "Wiki English names when present; EXBO names as fallback",
+      "containers": "Wiki for calculator parity; EXBO for offline regeneration when fields match",
+      "marketIds": "EXBO IDs, with explicit mapping report for unpriced/mismatched IDs"
+    },
+    "notes": [
+      "Wiki exposes the smaller calculator-visible artifact set; EXBO exposes many upgrade/variant records.",
+      "A shared ID with stat differences should be reviewed before switching canonical stats away from Wiki.",
+      "Container capacity/protection/effectiveness differences affect optimizer validity and should be treated as high priority."
+    ]
+  }
+}

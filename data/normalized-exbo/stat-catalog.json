@@ -1,0 +1,625 @@
+[
+  {
+    "key": "stalker.artefact_properties.factor.artefakt_heal",
+    "label": "Periodic healing",
+    "aliases": [
+      "periodic healing",
+      "artifact heal",
+      "artefact heal"
+    ],
+    "category": "healing",
+    "resultPanelGroup": "healing",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.biological_accumulation",
+    "label": "Biological infection",
+    "aliases": [
+      "bio",
+      "biological",
+      "biological infection",
+      "bio infection",
+      "biological accumulation"
+    ],
+    "category": "accumulation",
+    "resultPanelGroup": "environmental",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.biological_protection",
+    "label": "Bioinfection protection",
+    "aliases": [
+      "bio protection",
+      "biological protection",
+      "bioinfection protection"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.bleeding_accumulation",
+    "label": "Bleeding",
+    "aliases": [
+      "bleeding",
+      "bleed",
+      "bleeding accumulation"
+    ],
+    "category": "accumulation",
+    "resultPanelGroup": "environmental",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "wiki-verified",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.bleeding_protection",
+    "label": "Bleeding protection",
+    "aliases": [
+      "bleeding protection",
+      "bleed protection"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.bullet_dmg_factor",
+    "label": "Bullet resistance",
+    "aliases": [
+      "bullet resistance",
+      "bullet protection",
+      "bullet damage resistance",
+      "bullet"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.burn_dmg_factor",
+    "label": "Resistance to fire",
+    "aliases": [
+      "fire resistance",
+      "fire protection",
+      "burn resistance",
+      "resistance to fire"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.chemical_burn_dmg_factor",
+    "label": "Resistance to chemicals",
+    "aliases": [
+      "chemical resistance",
+      "chemical protection",
+      "resistance to chemicals",
+      "chem protection"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.combustion_accumulation",
+    "label": "Burning",
+    "aliases": [
+      "burning",
+      "combustion",
+      "burn accumulation"
+    ],
+    "category": "accumulation",
+    "resultPanelGroup": "environmental",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "wiki-verified",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.electra_dmg_factor",
+    "label": "Resistance to electricity",
+    "aliases": [
+      "electricity resistance",
+      "electric resistance",
+      "electro protection",
+      "resistance to electricity"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.explosion_dmg_factor",
+    "label": "Explosion protection",
+    "aliases": [
+      "explosion protection",
+      "explosion resistance",
+      "blast protection",
+      "explosion",
+      "blast"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.frost_accumulation",
+    "label": "Frost",
+    "aliases": [
+      "frost",
+      "cold",
+      "cold accumulation",
+      "frost accumulation"
+    ],
+    "category": "accumulation",
+    "resultPanelGroup": "environmental",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.heal_efficiency",
+    "label": "Healing effectiveness",
+    "aliases": [
+      "healing",
+      "healing effectiveness",
+      "heal efficiency",
+      "healing efficiency"
+    ],
+    "category": "healing",
+    "resultPanelGroup": "healing",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.health_bonus",
+    "label": "Vitality",
+    "aliases": [
+      "vitality",
+      "health",
+      "health bonus",
+      "survivability",
+      "survival",
+      "effective health",
+      "tankiness"
+    ],
+    "category": "survivability",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.max_weight_bonus",
+    "label": "Carry weight",
+    "aliases": [
+      "carry weight",
+      "max weight",
+      "maximum weight",
+      "weight bonus"
+    ],
+    "category": "mobility",
+    "resultPanelGroup": "mobility",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.psycho_accumulation",
+    "label": "Psy-emissions",
+    "aliases": [
+      "psy",
+      "psycho",
+      "psy emissions",
+      "psy-emissions",
+      "psycho accumulation",
+      "psy accumulation"
+    ],
+    "category": "accumulation",
+    "resultPanelGroup": "environmental",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.psycho_protection",
+    "label": "Psy-Emission protection",
+    "aliases": [
+      "psy protection",
+      "psycho protection",
+      "psy emission protection",
+      "psy-emission protection"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.radiation_accumulation",
+    "label": "Radiation",
+    "aliases": [
+      "rad",
+      "rads",
+      "radiation",
+      "radiation accumulation"
+    ],
+    "category": "accumulation",
+    "resultPanelGroup": "environmental",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.radiation_protection",
+    "label": "Radiation protection",
+    "aliases": [
+      "rad protection",
+      "radiation protection"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.reaction_to_burn",
+    "label": "Reaction to burns",
+    "aliases": [
+      "reaction to burns",
+      "reaction to burn",
+      "burn reaction"
+    ],
+    "category": "reaction",
+    "resultPanelGroup": "reactions",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.reaction_to_chemical_burn",
+    "label": "Reaction to chemical burns",
+    "aliases": [
+      "reaction to chemical burns",
+      "chemical burn reaction",
+      "chem burn reaction"
+    ],
+    "category": "reaction",
+    "resultPanelGroup": "reactions",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.reaction_to_electroshock",
+    "label": "Reaction to electricity",
+    "aliases": [
+      "reaction to electricity",
+      "reaction to electroshock",
+      "electricity reaction"
+    ],
+    "category": "reaction",
+    "resultPanelGroup": "reactions",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.reaction_to_tear",
+    "label": "Reaction to laceration",
+    "aliases": [
+      "reaction to laceration",
+      "reaction to tear",
+      "laceration reaction"
+    ],
+    "category": "reaction",
+    "resultPanelGroup": "reactions",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.recoil_bonus",
+    "label": "Recoil",
+    "aliases": [
+      "recoil",
+      "recoil bonus"
+    ],
+    "category": "weaponHandling",
+    "resultPanelGroup": "weaponHandling",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "wiki-verified",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.regeneration_bonus",
+    "label": "Health regeneration",
+    "aliases": [
+      "health regeneration",
+      "regeneration",
+      "regen"
+    ],
+    "category": "healing",
+    "resultPanelGroup": "healing",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.speed_modifier",
+    "label": "Movement speed",
+    "aliases": [
+      "movement speed",
+      "speed"
+    ],
+    "category": "mobility",
+    "resultPanelGroup": "mobility",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.sprint_speed_modifier",
+    "label": "Running speed",
+    "aliases": [
+      "running speed",
+      "sprint speed",
+      "sprint"
+    ],
+    "category": "mobility",
+    "resultPanelGroup": "mobility",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.stamina_bonus",
+    "label": "Stamina",
+    "aliases": [
+      "stamina",
+      "stamina bonus"
+    ],
+    "category": "mobility",
+    "resultPanelGroup": "mobility",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.stamina_regeneration_bonus",
+    "label": "Stamina regeneration",
+    "aliases": [
+      "stamina regeneration",
+      "stamina regen"
+    ],
+    "category": "mobility",
+    "resultPanelGroup": "mobility",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.stopping_protection",
+    "label": "Stability",
+    "aliases": [
+      "stability",
+      "stopping protection"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.tear_dmg_factor",
+    "label": "Laceration protection",
+    "aliases": [
+      "laceration protection",
+      "tear protection",
+      "tear resistance",
+      "laceration",
+      "tear"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.thermal_accumulation",
+    "label": "Temperature",
+    "aliases": [
+      "temperature",
+      "thermal",
+      "thermal accumulation",
+      "temp"
+    ],
+    "category": "accumulation",
+    "resultPanelGroup": "environmental",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "verified-normal",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.thermal_protection",
+    "label": "Thermal protection",
+    "aliases": [
+      "thermal protection",
+      "temperature protection",
+      "temp protection"
+    ],
+    "category": "protection",
+    "resultPanelGroup": "survivability",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "needs-exposure-verification",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.artefact_properties.factor.wiggle_bonus",
+    "label": "Sway",
+    "aliases": [
+      "sway",
+      "wiggle",
+      "weapon sway"
+    ],
+    "category": "weaponHandling",
+    "resultPanelGroup": "weaponHandling",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "wiki-verified",
+    "showInObjectiveOptions": true,
+    "specialMechanic": false
+  },
+  {
+    "key": "stalker.tooltip.item.lifesaver_sniper.info.trigger_damage",
+    "label": "Triggers when",
+    "aliases": [
+      "triggers when",
+      "trigger damage",
+      "activation threshold"
+    ],
+    "category": "specialMechanic",
+    "resultPanelGroup": "special",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "wiki-verified",
+    "showInObjectiveOptions": false,
+    "specialMechanic": true
+  },
+  {
+    "key": "stalker.tooltip.item.lifesaver_sniper.info.blocking_damage",
+    "label": "Reduces damage by",
+    "aliases": [
+      "reduces damage by",
+      "damage reduction",
+      "blocking damage"
+    ],
+    "category": "specialMechanic",
+    "resultPanelGroup": "special",
+    "defaultObjectiveDirection": "maximize",
+    "displayUnit": "flat",
+    "sourceTruthStatus": "wiki-verified",
+    "showInObjectiveOptions": false,
+    "specialMechanic": true
+  },
+  {
+    "key": "stalker.tooltip.item.lifesaver.info.recharge",
+    "label": "Reload",
+    "aliases": [
+      "reload",
+      "recharge"
+    ],
+    "category": "specialMechanic",
+    "resultPanelGroup": "special",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "seconds",
+    "sourceTruthStatus": "wiki-verified",
+    "showInObjectiveOptions": false,
+    "specialMechanic": true
+  },
+  {
+    "key": "stalker.tooltip.item.lifesaver.info.cost",
+    "label": "Charge required to activate",
+    "aliases": [
+      "charge required to activate",
+      "activation charge",
+      "charge cost"
+    ],
+    "category": "specialMechanic",
+    "resultPanelGroup": "special",
+    "defaultObjectiveDirection": "minimize",
+    "displayUnit": "percent",
+    "sourceTruthStatus": "wiki-verified",
+    "showInObjectiveOptions": false,
+    "specialMechanic": true
+  }
+]

@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>UltimateBuild Agent Onboarding</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #090b0f;
+        --panel: #121722;
+        --panel-soft: #161d2b;
+        --text: #e7edf7;
+        --muted: #9aa8bb;
+        --accent: #4dd4e8;
+        --line: #2a3445;
+        --warn: #f7c76c;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        line-height: 1.55;
+      }
+      main { width: min(1080px, calc(100% - 32px)); margin: 0 auto; padding: 40px 0 64px; }
+      header { padding: 32px 0 24px; border-bottom: 1px solid var(--line); }
+      h1 { margin: 0 0 12px; font-size: clamp(2rem, 5vw, 4rem); line-height: 1; }
+      h2 { margin: 0 0 12px; font-size: 1.45rem; }
+      h3 { margin: 22px 0 8px; font-size: 1.05rem; }
+      p { margin: 0 0 14px; color: var(--muted); }
+      a { color: var(--accent); }
+      section { margin-top: 24px; padding: 22px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); }
+      code, pre { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+      code { color: var(--accent); }
+      pre { margin: 12px 0 0; padding: 14px; overflow-x: auto; border-radius: 6px; background: #05070a; border: 1px solid var(--line); }
+      ul, ol { margin: 8px 0 0; padding-left: 22px; color: var(--muted); }
+      li { margin: 6px 0; }
+      .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+      .note { border-left: 3px solid var(--warn); background: var(--panel-soft); }
+      .ok { border-left: 3px solid var(--accent); background: var(--panel-soft); }
+      table { width: 100%; border-collapse: collapse; margin-top: 12px; color: var(--muted); }
+      th, td { padding: 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+      th { color: var(--text); }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>UltimateBuild Agent Onboarding</h1>
+        <p>Browser-readable setup notes for OpenClaw, Hermes, and other coding agents working on the UltimateBuild STALCRAFT calculator and optimizer.</p>
+      </header>
+
+      <section class="ok">
+        <h2>Fast Path</h2>
+        <p>From the repository root, run the idempotent quickstart script:</p>
+        <pre><code>scripts/agent-quickstart.sh</code></pre>
+        <p>To start the local web server after setup:</p>
+        <pre><code>scripts/agent-quickstart.sh --dev</code></pre>
+        <p>The SvelteKit dev server binds to <code>127.0.0.1</code>. Vite prints the final port; the default is usually <code>http://127.0.0.1:5173</code>.</p>
+      </section>
+
+      <section>
+        <h2>Repository Purpose</h2>
+        <p>UltimateBuild calculates and optimizes STALCRAFT artifact builds. It combines normalized artifact/container/stat data, Wiki-parity stat calculation, prompt/objective parsing, market-aware price snapshots, and a SvelteKit UI.</p>
+        <p>Preserve calculator and optimizer behavior unless the task explicitly requires a change. Candidate search can be optimized, but final display should be based on exact calculator evaluation.</p>
+      </section>
+
+      <section>
+        <h2>Dependencies</h2>
+        <table>
+          <thead><tr><th>Tool</th><th>Expected Use</th></tr></thead>
+          <tbody>
+            <tr><td>Node.js 22+</td><td>Required for market/test paths that use <code>node:sqlite</code>. Web-only work may run on newer LTS versions, but use Node 22+ for full verification.</td></tr>
+            <tr><td>pnpm</td><td>Workspace package manager. The quickstart script enables it through Corepack when possible.</td></tr>
+            <tr><td>Git</td><td>Used only for status and diff inspection. Do not commit or push unless explicitly asked.</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section>
+        <h2>Install And Run Locally</h2>
+        <ol>
+          <li>Open a shell at the repository root.</li>
+          <li>Run <code>scripts/agent-quickstart.sh</code>.</li>
+          <li>If checks pass, start the web app with <code>scripts/agent-quickstart.sh --dev</code> or <code>pnpm --filter @ultimatebuild/web dev</code>.</li>
+          <li>For CLI smoke testing, run <code>pnpm optimize -- "best movement speed under 0.5 radiation"</code>.</li>
+        </ol>
+        <pre><code>pnpm install --frozen-lockfile
+pnpm web:check
+pnpm test
+pnpm typecheck
+pnpm --filter @ultimatebuild/web dev</code></pre>
+      </section>
+
+      <section>
+        <h2>How The Code Connects</h2>
+        <div class="grid">
+          <div>
+            <h3>Data</h3>
+            <p><code>packages/stalcraft-data</code> reads normalized catalogs from <code>data/normalized</code> and exposes artifact, container, and stat metadata.</p>
+          </div>
+          <div>
+            <h3>Calculator</h3>
+            <p><code>packages/stalcraft-core</code> calculates raw artifact stats and final build stats after container effectiveness and protection.</p>
+          </div>
+          <div>
+            <h3>Optimizer</h3>
+            <p><code>packages/stalcraft-optimizer</code> generates legal candidates, prunes search space, scores objectives, and returns verified builds.</p>
+          </div>
+          <div>
+            <h3>Web</h3>
+            <p><code>apps/web/src/routes/+page.server.ts</code> runs server-side optimization and market snapshot loading. <code>+page.svelte</code> renders the UI.</p>
+          </div>
+          <div>
+            <h3>Market</h3>
+            <p><code>packages/stalcraft-market</code> handles local SQLite market import/export. The deployed web app should read snapshots, not write SQLite.</p>
+          </div>
+          <div>
+            <h3>CLI</h3>
+            <p><code>apps/cli</code> is the terminal entry point for optimizer prompts.</p>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <h2>Vercel Setup</h2>
+        <p>Use Vercel for the SvelteKit web app and static/read-only market data. Do not run long STALCRAFT market pulls or SQLite writes inside Vercel functions.</p>
+        <ul>
+          <li>Root directory: repository root</li>
+          <li>Install command: <code>pnpm install --frozen-lockfile</code></li>
+          <li>Build command: <code>pnpm --filter @ultimatebuild/web build</code></li>
+          <li>Framework preset: SvelteKit</li>
+          <li>Node version: use a current Vercel-supported Node runtime; use Node 22+ for local full-suite market verification.</li>
+        </ul>
+        <p>The current static snapshot path is <code>apps/web/static/market/latest-NA.json</code>. If a hosted snapshot URL is introduced, use named environment variables only, such as <code>PUBLIC_MARKET_SNAPSHOT_URL</code> for public data or <code>MARKET_SNAPSHOT_URL</code> for server-only reads.</p>
+      </section>
+
+      <section>
+        <h2>Supabase Guidance</h2>
+        <p>Supabase is not required by the current implementation. If a future agent adds it, treat it as hosted infrastructure for market snapshots, admin metadata, or durable pull records.</p>
+        <ul>
+          <li>Do not put real Supabase URLs or keys in committed files unless they are intentionally public project identifiers.</li>
+          <li>Keep service-role keys server-only in Vercel or worker environment variables.</li>
+          <li>Expose only anon keys that are designed for browser use, and pair them with strict Row Level Security.</li>
+          <li>Document schema and migration steps before replacing the existing SQLite snapshot workflow.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Market Snapshot Workflow</h2>
+        <p>Live market pulls require STALCRAFT API credentials in the worker environment. Name variables, but never commit values.</p>
+        <pre><code>STALCRAFT_CLIENT_ID=...
+STALCRAFT_CLIENT_SECRET=...</code></pre>
+        <p>Typical local worker flow:</p>
+        <pre><code>pnpm market:pull -- --db .cache/market.sqlite --region NA --items item_a,item_b --additional --days 30
+pnpm market:export-snapshot -- --db .cache/market.sqlite --region NA --out apps/web/static/market/latest-NA.json</code></pre>
+      </section>
+
+      <section>
+        <h2>Verification Checklist</h2>
+        <ul>
+          <li><code>pnpm web:check</code> for SvelteKit and Svelte type checks.</li>
+          <li><code>pnpm test</code> for Vitest coverage.</li>
+          <li><code>pnpm typecheck</code> for repository TypeScript checks.</li>
+          <li><code>pnpm web:build</code> before deployment-sensitive changes.</li>
+          <li><code>git diff --check</code> before handing off.</li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 220" role="img" aria-labelledby="title desc">
+  <title id="title">UltimateBuild wordmark</title>
+  <desc id="desc">UltimateBuild logo with angular cyan artifact mark and geometric technical wordmark.</desc>
+  <defs>
+    <linearGradient id="shell" x1="39" y1="20" x2="182" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2d3a43"/>
+      <stop offset="0.48" stop-color="#121b25"/>
+      <stop offset="1" stop-color="#05080d"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="36" y1="17" x2="184" y2="204" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#95f7ff"/>
+      <stop offset="0.53" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#0c7482"/>
+    </linearGradient>
+    <linearGradient id="textFill" x1="244" y1="44" x2="922" y2="175" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7feff"/>
+      <stop offset="0.42" stop-color="#b8f7ff"/>
+      <stop offset="1" stop-color="#66e8f6"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.07 0 0 0 0 0.84 0 0 0 0 0.93 0 0 0 0.62 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="980" height="220" rx="24" fill="none"/>
+  <g transform="translate(22 18)">
+    <path d="M88 0 176 39v83c0 44-31 83-88 100C31 205 0 166 0 122V39L88 0Z" fill="url(#edge)"/>
+    <path d="M88 14 163 47v74c0 37-26 69-75 84-49-15-75-47-75-84V47L88 14Z" fill="url(#shell)"/>
+    <path d="M13 79h39l18-22h36l18 22h39v30h-48L97 86H79l-18 23H13V79Z" fill="#071018"/>
+    <path d="M29 88h25l17-20h34l17 20h25" fill="none" stroke="#8ff6ff" stroke-width="5" stroke-linecap="square"/>
+    <path d="M88 62 119 85v37l-31 23-31-23V85l31-23Z" fill="#061117" stroke="#95f7ff" stroke-width="5" stroke-linejoin="round" filter="url(#glow)"/>
+    <path d="M88 79 105 92v22l-17 13-17-13V92l17-13Z" fill="#20d6ec" filter="url(#glow)"/>
+    <path d="M14 121c24-16 52-26 84-28 35-2 65 9 86 31M18 157c19 24 42 40 70 49 28-9 51-25 70-49" fill="none" stroke="#78f1ff" stroke-width="2.5" stroke-linecap="round" opacity="0.45"/>
+  </g>
+  <g filter="url(#glow)">
+    <text x="238" y="100" fill="url(#textFill)" font-family="Rajdhani, Orbitron, Eurostile, 'Arial Narrow', Arial, sans-serif" font-size="68" font-weight="900" letter-spacing="7">ULTIMATE</text>
+    <text x="238" y="158" fill="#e5fbff" font-family="Rajdhani, Orbitron, Eurostile, 'Arial Narrow', Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="9">BUILD</text>
+  </g>
+  <path d="M236 178h482l28-18h151" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linecap="square" opacity="0.78"/>
+  <path d="M238 42h284l17 13h355" fill="none" stroke="#64748b" stroke-width="2" stroke-linecap="square" opacity="0.55"/>
+  <path d="M909 42h36l13 13v31M909 178h36l13-13v-31" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linecap="square" opacity="0.78"/>
+</svg>

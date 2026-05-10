@@ -1,0 +1,18 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "moduleResolution": "bundler",
+    "module": "ESNext",
+    "target": "ES2022",
+    "strict": true,
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "paths": {
+      "$lib": ["./apps/web/src/lib"],
+      "$lib/*": ["./apps/web/src/lib/*"]
+    }
+  },
+  "include": ["apps/web/src/**/*.js", "apps/web/src/**/*.ts", "apps/web/src/**/*.svelte", "apps/web/.svelte-kit/types/**/*.d.ts"]
+}

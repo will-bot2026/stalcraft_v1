@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# build outputs
+build/
+dist/
+.svelte-kit/
+.vite/
+coverage/
+
+# local env / credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# local caches / temp
+.DS_Store
+*.log
+.hermes/
+.tmp/
+tmp/
+.cache/
+
+# editor
+.vscode/
+.idea/
+
+# local-only raw references
+references/private-raw/
+docs/research/private-raw/
+.vercel

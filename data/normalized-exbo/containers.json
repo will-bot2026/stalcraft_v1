@@ -1,0 +1,488 @@
+[
+  {
+    "id": "0nok",
+    "name": "Sheaf Container",
+    "category": "containers",
+    "capacity": 7,
+    "protection": 60.000004,
+    "effectiveness": 97,
+    "stats": []
+  },
+  {
+    "id": "1p2r",
+    "name": "KZS-MU Container",
+    "category": "containers",
+    "capacity": 3,
+    "protection": 95,
+    "effectiveness": 132.5,
+    "stats": []
+  },
+  {
+    "id": "2v9v",
+    "name": "Shiver Container",
+    "category": "containers",
+    "capacity": 5,
+    "protection": 75,
+    "effectiveness": 102.5,
+    "stats": []
+  },
+  {
+    "id": "2vvv",
+    "name": "KZS-M Container",
+    "category": "containers",
+    "capacity": 3,
+    "protection": 95,
+    "effectiveness": 115,
+    "stats": []
+  },
+  {
+    "id": "3d11",
+    "name": "Cool Container",
+    "category": "containers",
+    "capacity": 5,
+    "protection": 75,
+    "effectiveness": 92.5,
+    "stats": []
+  },
+  {
+    "id": "512o",
+    "name": "ZIVCAS ArcticSafe-6",
+    "category": "containers",
+    "capacity": 6,
+    "protection": 75,
+    "effectiveness": 102.5,
+    "stats": []
+  },
+  {
+    "id": "6g5n",
+    "name": "Canister-U Container",
+    "category": "containers",
+    "capacity": 5,
+    "protection": 60.000004,
+    "effectiveness": 83.5,
+    "stats": []
+  },
+  {
+    "id": "9y4q",
+    "name": "Cocoon Container",
+    "category": "containers",
+    "capacity": 3,
+    "protection": 89.5,
+    "effectiveness": 100,
+    "stats": []
+  },
+  {
+    "id": "9ygq",
+    "name": "Berloga — 5U Container",
+    "category": "containers",
+    "capacity": 5,
+    "protection": 78.5,
+    "effectiveness": 100,
+    "stats": []
+  },
+  {
+    "id": "9yyq",
+    "name": "KZS-1 Container",
+    "category": "containers",
+    "capacity": 1,
+    "protection": 95,
+    "effectiveness": 150,
+    "stats": []
+  },
+  {
+    "id": "d3kg",
+    "name": "Berloga—5  Container",
+    "category": "containers",
+    "capacity": 5,
+    "protection": 78.5,
+    "effectiveness": 90,
+    "stats": []
+  },
+  {
+    "id": "g35n",
+    "name": "Berloga — 6 Container",
+    "category": "containers",
+    "capacity": 6,
+    "protection": 78.5,
+    "effectiveness": 100,
+    "stats": []
+  },
+  {
+    "id": "g3ln",
+    "name": "Fridge Container",
+    "category": "containers",
+    "capacity": 4,
+    "protection": 78.5,
+    "effectiveness": 113,
+    "stats": []
+  },
+  {
+    "id": "j33l",
+    "name": "KZS-2 Container",
+    "category": "containers",
+    "capacity": 2,
+    "protection": 95,
+    "effectiveness": 130,
+    "stats": []
+  },
+  {
+    "id": "j34l",
+    "name": "Freezer Container",
+    "category": "containers",
+    "capacity": 6,
+    "protection": 75,
+    "effectiveness": 102.5,
+    "stats": []
+  },
+  {
+    "id": "j3ml",
+    "name": "SMC Container",
+    "category": "containers",
+    "capacity": 4,
+    "protection": 95,
+    "effectiveness": 120.00001,
+    "stats": []
+  },
+  {
+    "id": "k3kj",
+    "name": "Kega-RS Container",
+    "category": "containers",
+    "capacity": 6,
+    "protection": 60.000004,
+    "effectiveness": 90,
+    "stats": []
+  },
+  {
+    "id": "k3oj",
+    "name": "Cell Container",
+    "category": "containers",
+    "capacity": 4,
+    "protection": 89.5,
+    "effectiveness": 95,
+    "stats": []
+  },
+  {
+    "id": "l362",
+    "name": "CRAW-6 Container",
+    "category": "containers",
+    "capacity": 6,
+    "protection": 60.000004,
+    "effectiveness": 97,
+    "stats": []
+  },
+  {
+    "id": "l3n2",
+    "name": "Berloga-4U Container",
+    "category": "containers",
+    "capacity": 4,
+    "protection": 78.5,
+    "effectiveness": 100,
+    "stats": []
+  },
+  {
+    "id": "n3v9",
+    "name": "Apiary Container",
+    "category": "containers",
+    "capacity": 5,
+    "protection": 89.5,
+    "effectiveness": 120.00001,
+    "stats": []
+  },
+  {
+    "id": "o335",
+    "name": "KZS-2U Container",
+    "category": "containers",
+    "capacity": 2,
+    "protection": 95,
+    "effectiveness": 145,
+    "stats": []
+  },
+  {
+    "id": "o3d5",
+    "name": "Cell-U Container",
+    "category": "containers",
+    "capacity": 4,
+    "protection": 89.5,
+    "effectiveness": 110,
+    "stats": []
+  },
+  {
+    "id": "p92d",
+    "name": "Hive Container",
+    "category": "containers",
+    "capacity": 5,
+    "protection": 89.5,
+    "effectiveness": 104.99999,
+    "stats": []
+  },
+  {
+    "id": "p99d",
+    "name": "IU-2 Container",
+    "category": "containers",
+    "capacity": 3,
+    "protection": 95,
+    "effectiveness": 139,
+    "stats": []
+  },
+  {
+    "id": "q194",
+    "name": "Forager Container",
+    "category": "containers",
+    "capacity": 4,
+    "protection": 78.5,
+    "effectiveness": 113,
+    "stats": []
+  },
+  {
+    "id": "q1m4",
+    "name": "Berloga-6U Container",
+    "category": "containers",
+    "capacity": 6,
+    "protection": 78.5,
+    "effectiveness": 114,
+    "stats": []
+  },
+  {
+    "id": "rgoz",
+    "name": "Barrel Container",
+    "category": "containers",
+    "capacity": 7,
+    "protection": 60.000004,
+    "effectiveness": 92.5,
+    "stats": []
+  },
+  {
+    "id": "v6y7",
+    "name": "Canister Container",
+    "category": "containers",
+    "capacity": 5,
+    "protection": 60.000004,
+    "effectiveness": 75,
+    "stats": []
+  },
+  {
+    "id": "w42z",
+    "name": "Overton Container",
+    "category": "containers",
+    "capacity": 6,
+    "protection": 60.000004,
+    "effectiveness": 100,
+    "stats": []
+  },
+  {
+    "id": "w4wz",
+    "name": "Berloga — 4 Container",
+    "category": "containers",
+    "capacity": 4,
+    "protection": 78.5,
+    "effectiveness": 90,
+    "stats": []
+  },
+  {
+    "id": "yqk0",
+    "name": "Cocoon-U Container",
+    "category": "containers",
+    "capacity": 3,
+    "protection": 89.5,
+    "effectiveness": 110,
+    "stats": []
+  },
+  {
+    "id": "yqq0",
+    "name": "KZS-1U Container",
+    "category": "containers",
+    "capacity": 1,
+    "protection": 95,
+    "effectiveness": 180,
+    "stats": []
+  },
+  {
+    "id": "zj1k",
+    "name": "Kega Container",
+    "category": "containers",
+    "capacity": 6,
+    "protection": 60.000004,
+    "effectiveness": 78.5,
+    "stats": []
+  },
+  {
+    "id": "0ndk",
+    "name": "Jagdtasche",
+    "category": "backpacks",
+    "capacity": 4,
+    "protection": 78.5,
+    "effectiveness": 112.5,
+    "stats": []
+  },
+  {
+    "id": "12r1",
+    "name": "Errand Junior Backpack",
+    "category": "backpacks",
+    "capacity": 4,
+    "protection": 60.000004,
+    "effectiveness": 75,
+    "stats": []
+  },
+  {
+    "id": "29o6",
+    "name": "Duffel Bag",
+    "category": "backpacks",
+    "capacity": 3,
+    "protection": 60.000004,
+    "effectiveness": 77.5,
+    "stats": []
+  },
+  {
+    "id": "51zo",
+    "name": "Saddlebag",
+    "category": "backpacks",
+    "capacity": 3,
+    "protection": 78.5,
+    "effectiveness": 113,
+    "stats": []
+  },
+  {
+    "id": "dkln",
+    "name": "Utility vest ADR-WRBT",
+    "category": "backpacks",
+    "capacity": 4,
+    "protection": 89.5,
+    "effectiveness": 104.99999,
+    "stats": []
+  },
+  {
+    "id": "glnp",
+    "name": "Soviet Travel Backpack",
+    "category": "backpacks",
+    "capacity": 5,
+    "protection": 60.000004,
+    "effectiveness": 90,
+    "stats": []
+  },
+  {
+    "id": "jmp6",
+    "name": "Transformer Bag",
+    "category": "backpacks",
+    "capacity": 1,
+    "protection": 89.5,
+    "effectiveness": 115,
+    "stats": []
+  },
+  {
+    "id": "l332",
+    "name": "Hellboy Backpack",
+    "category": "backpacks",
+    "capacity": 3,
+    "protection": 78.5,
+    "effectiveness": 104.99999,
+    "stats": []
+  },
+  {
+    "id": "lny1",
+    "name": "Tri-Zip Assault Backpack",
+    "category": "backpacks",
+    "capacity": 5,
+    "protection": 60.000004,
+    "effectiveness": 78.5,
+    "stats": []
+  },
+  {
+    "id": "n339",
+    "name": "Hellboy-U Backpack",
+    "category": "backpacks",
+    "capacity": 3,
+    "protection": 78.5,
+    "effectiveness": 116.5,
+    "stats": []
+  },
+  {
+    "id": "nv43",
+    "name": "NPA Backpack",
+    "category": "backpacks",
+    "capacity": 4,
+    "protection": 78.5,
+    "effectiveness": 101.5,
+    "stats": []
+  },
+  {
+    "id": "nv63",
+    "name": "PROTECT 3B Waist Bag",
+    "category": "backpacks",
+    "capacity": 2,
+    "protection": 89.5,
+    "effectiveness": 110,
+    "stats": []
+  },
+  {
+    "id": "odq0",
+    "name": "Sports Bag",
+    "category": "backpacks",
+    "capacity": 2,
+    "protection": 89.5,
+    "effectiveness": 100,
+    "stats": []
+  },
+  {
+    "id": "p262",
+    "name": "Coffin Backpack",
+    "category": "backpacks",
+    "capacity": 5,
+    "protection": 78.5,
+    "effectiveness": 110,
+    "stats": []
+  },
+  {
+    "id": "p2k2",
+    "name": "Pouch Black Eagle B-33",
+    "category": "backpacks",
+    "capacity": 3,
+    "protection": 89.5,
+    "effectiveness": 95,
+    "stats": []
+  },
+  {
+    "id": "vyqd",
+    "name": "Utility vest Black Eagle Y-73",
+    "category": "backpacks",
+    "capacity": 3,
+    "protection": 89.5,
+    "effectiveness": 110,
+    "stats": []
+  },
+  {
+    "id": "wwjo",
+    "name": "MBSS Backpack",
+    "category": "backpacks",
+    "capacity": 4,
+    "protection": 60.000004,
+    "effectiveness": 83.5,
+    "stats": []
+  },
+  {
+    "id": "yq90",
+    "name": "Chitin Backpack",
+    "category": "backpacks",
+    "capacity": 6,
+    "protection": 60.000004,
+    "effectiveness": 115,
+    "stats": []
+  },
+  {
+    "id": "zjqk",
+    "name": "Marathon bag",
+    "category": "backpacks",
+    "capacity": 3,
+    "protection": 78.5,
+    "effectiveness": 113,
+    "stats": []
+  },
+  {
+    "id": "zq3n",
+    "name": "Secret Valley 35 Backpack",
+    "category": "backpacks",
+    "capacity": 6,
+    "protection": 60.000004,
+    "effectiveness": 92.5,
+    "stats": []
+  }
+]

@@ -1,0 +1,2555 @@
+{
+  "generatedAt": "2026-04-28T03:47:40.296Z",
+  "db": ".cache/market-full-2026-04-28.sqlite",
+  "artifactCount": 102,
+  "marketPullsByStatus": [
+    {
+      "status": "failure",
+      "count": 3
+    },
+    {
+      "status": "success",
+      "count": 101
+    }
+  ],
+  "auctionHistory": {
+    "itemCountWithSamples": 99,
+    "totalRows": 21272,
+    "noSamples": [
+      "x22sxr4",
+      "rnkl",
+      "azq5t9so"
+    ],
+    "sampleByItem": {
+      "04yr": 37,
+      "1k4q": 110,
+      "1k96": 148,
+      "1kdg": 270,
+      "1kv2": 163,
+      "1kw1": 181,
+      "49zn": 181,
+      "4l1r": 317,
+      "4l7p": 284,
+      "4lkp": 369,
+      "4lml": 482,
+      "4lpo": 49,
+      "4lrn": 139,
+      "51l0": 62,
+      "5r04": 109,
+      "5r34": 158,
+      "5r5g": 410,
+      "5rd1": 317,
+      "5rg1": 283,
+      "5rm0": 204,
+      "5rog": 118,
+      "5rpq": 170,
+      "5rwq": 402,
+      "5rzo": 146,
+      "6goy": 335,
+      "7z77": 265,
+      "9n1w": 127,
+      "9n7z": 206,
+      "9nd0": 133,
+      "9nml": 95,
+      "9nvy": 97,
+      "g34p": 230,
+      "gy06": 298,
+      "gy10": 249,
+      "gy7p": 312,
+      "gyg5": 562,
+      "gyjg": 139,
+      "gyln": 55,
+      "gyn0": 203,
+      "gypg": 107,
+      "gyq5": 707,
+      "gyv6": 173,
+      "j3p6": 177,
+      "jkj4": 208,
+      "jkml": 60,
+      "jkq7": 140,
+      "jky6": 222,
+      "k3yv": 135,
+      "kq4v": 222,
+      "kqgy": 455,
+      "kqj3": 159,
+      "kqoj": 99,
+      "kqp0": 279,
+      "kqr0": 463,
+      "lj0j": 69,
+      "ljn2": 192,
+      "ljpq": 395,
+      "ljrj": 254,
+      "q1lk": 68,
+      "qo06": 244,
+      "qo59": 192,
+      "qo94": 138,
+      "qodk": 346,
+      "qokj": 33,
+      "qoq6": 609,
+      "rn1z": 90,
+      "rnvg": 29,
+      "w4jo": 316,
+      "w4no": 79,
+      "wg3p": 171,
+      "wg53": 246,
+      "wg62": 256,
+      "wgko": 121,
+      "wglp": 459,
+      "wgr3": 105,
+      "wgvd": 92,
+      "wgwz": 148,
+      "wgzd": 220,
+      "y54z": 213,
+      "y5jk": 511,
+      "y5k0": 181,
+      "y5m3": 112,
+      "y5nz": 164,
+      "y5ro": 321,
+      "y5vw": 68,
+      "y5w3": 261,
+      "y5yw": 131,
+      "yq3o": 54,
+      "zjzn": 161,
+      "zy32": 207,
+      "zy7y": 64,
+      "zyly": 211,
+      "zymn": 173,
+      "zyo9": 175,
+      "zypm": 731,
+      "zyqk": 66,
+      "zyrm": 261,
+      "zyv9": 113,
+      "zyw2": 201
+    }
+  },
+  "latestPrices": {
+    "rowCount": 6366,
+    "itemCount": 100,
+    "missingLatest": [
+      "x22sxr4",
+      "azq5t9so"
+    ],
+    "invalidItems": [
+      "x22sxr4",
+      "rnkl",
+      "azq5t9so"
+    ],
+    "sourceTypeCounts": {
+      "history": 100,
+      "history-additional": 6266
+    },
+    "topVariantKeys": [
+      {
+        "key": "artifact",
+        "count": 100
+      },
+      {
+        "key": "api:{\"qlt\":1,\"upgrade_bonus\":0}",
+        "count": 99
+      },
+      {
+        "key": "api:{\"qlt\":2,\"upgrade_bonus\":0}",
+        "count": 99
+      },
+      {
+        "key": "q100|l0|rarity.unordinary",
+        "count": 99
+      },
+      {
+        "key": "q115|l0|rarity.special",
+        "count": 99
+      },
+      {
+        "key": "rarity.special",
+        "count": 99
+      },
+      {
+        "key": "rarity.unordinary",
+        "count": 99
+      },
+      {
+        "key": "rarity.rare",
+        "count": 98
+      },
+      {
+        "key": "api:{\"qlt\":3,\"upgrade_bonus\":0}",
+        "count": 95
+      },
+      {
+        "key": "q130|l0|rarity.rare",
+        "count": 95
+      },
+      {
+        "key": "api:{\"qlt\":0,\"upgrade_bonus\":0}",
+        "count": 85
+      },
+      {
+        "key": "rarity.exclusive",
+        "count": 85
+      },
+      {
+        "key": "rarity.ordinary",
+        "count": 85
+      },
+      {
+        "key": "q145|l0|rarity.exclusive",
+        "count": 77
+      },
+      {
+        "key": "api:{\"it_transf_count\":1,\"qlt\":3,\"upgrade_bonus\":0}",
+        "count": 76
+      },
+      {
+        "key": "api:{\"qlt\":4,\"upgrade_bonus\":0}",
+        "count": 76
+      },
+      {
+        "key": "api:{\"it_transf_count\":1,\"qlt\":2,\"upgrade_bonus\":0}",
+        "count": 74
+      },
+      {
+        "key": "api:{\"it_transf_count\":1,\"qlt\":1,\"upgrade_bonus\":0}",
+        "count": 61
+      },
+      {
+        "key": "api:{\"it_transf_count\":1,\"qlt\":4,\"upgrade_bonus\":0}",
+        "count": 51
+      },
+      {
+        "key": "rarity.legendary",
+        "count": 49
+      },
+      {
+        "key": "api:{\"it_transf_count\":2,\"qlt\":3,\"upgrade_bonus\":0}",
+        "count": 48
+      },
+      {
+        "key": "api:{\"it_transf_count\":2,\"qlt\":2,\"upgrade_bonus\":0}",
+        "count": 41
+      },
+      {
+        "key": "api:{\"qlt\":5,\"upgrade_bonus\":0}",
+        "count": 38
+      },
+      {
+        "key": "q160|l0|rarity.legendary",
+        "count": 38
+      },
+      {
+        "key": "api:{\"it_transf_count\":1,\"qlt\":0,\"upgrade_bonus\":0}",
+        "count": 37
+      }
+    ],
+    "sourceFieldCounts": {
+      "qlt": 6266,
+      "ptn": 3273,
+      "upgrade_bonus": 5751,
+      "sourceQualityCategory": 938,
+      "qualityBracket": 938,
+      "optimizerQuality": 423,
+      "optimizerLevel": 423,
+      "optimizerRarity": 938,
+      "levelProof": 423,
+      "unsupportedNonzeroUpgradeBonus": 423,
+      "ignoredSourceFields": 73,
+      "bracketProof": 515,
+      "bonus_properties": 2761,
+      "it_transf_count": 3300,
+      "md_k": 439,
+      "ndmg": 2086,
+      "stats_random": 1488,
+      "ls_rc_duration": 49,
+      "ls_rc_start": 49,
+      "compens_2026_owner": 6,
+      "compens_2026_ptn": 6
+    },
+    "sourceFieldFingerprints": [
+      {
+        "key": "bonus_properties|it_transf_count|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 1206
+      },
+      {
+        "key": "qlt|stats_random|upgrade_bonus",
+        "count": 1043
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ptn|qlt|upgrade_bonus",
+        "count": 605
+      },
+      {
+        "key": "it_transf_count|qlt|upgrade_bonus",
+        "count": 590
+      },
+      {
+        "key": "bracketProof|optimizerRarity|qlt|qualityBracket|sourceQualityCategory",
+        "count": 515
+      },
+      {
+        "key": "qlt|upgrade_bonus",
+        "count": 492
+      },
+      {
+        "key": "levelProof|optimizerLevel|optimizerQuality|optimizerRarity|ptn|qlt|qualityBracket|sourceQualityCategory|unsupportedNonzeroUpgradeBonus|upgrade_bonus",
+        "count": 350
+      },
+      {
+        "key": "bonus_properties|it_transf_count|md_k|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 291
+      },
+      {
+        "key": "it_transf_count|qlt|stats_random|upgrade_bonus",
+        "count": 226
+      },
+      {
+        "key": "bonus_properties|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 179
+      },
+      {
+        "key": "bonus_properties|ptn|qlt|upgrade_bonus",
+        "count": 151
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ndmg|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 106
+      },
+      {
+        "key": "bonus_properties|md_k|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 77
+      },
+      {
+        "key": "it_transf_count|ndmg|qlt|upgrade_bonus",
+        "count": 76
+      },
+      {
+        "key": "ignoredSourceFields|levelProof|optimizerLevel|optimizerQuality|optimizerRarity|ptn|qlt|qualityBracket|sourceQualityCategory|unsupportedNonzeroUpgradeBonus|upgrade_bonus",
+        "count": 73
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 48
+      },
+      {
+        "key": "it_transf_count|ptn|qlt|upgrade_bonus",
+        "count": 32
+      },
+      {
+        "key": "bonus_properties|it_transf_count|md_k|ndmg|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 20
+      },
+      {
+        "key": "ndmg|qlt|upgrade_bonus",
+        "count": 20
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ls_rc_duration|ls_rc_start|ptn|qlt|upgrade_bonus",
+        "count": 19
+      },
+      {
+        "key": "it_transf_count|md_k|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 18
+      },
+      {
+        "key": "it_transf_count|md_k|ndmg|qlt|upgrade_bonus",
+        "count": 18
+      },
+      {
+        "key": "bonus_properties|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 17
+      },
+      {
+        "key": "it_transf_count|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 16
+      },
+      {
+        "key": "bonus_properties|ndmg|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 12
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ls_rc_duration|ls_rc_start|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 10
+      },
+      {
+        "key": "ptn|qlt|upgrade_bonus",
+        "count": 8
+      },
+      {
+        "key": "ndmg|qlt|stats_random|upgrade_bonus",
+        "count": 5
+      },
+      {
+        "key": "bonus_properties|ls_rc_duration|ls_rc_start|ptn|qlt|upgrade_bonus",
+        "count": 4
+      },
+      {
+        "key": "md_k|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 4
+      },
+      {
+        "key": "it_transf_count|ls_rc_duration|ls_rc_start|ndmg|qlt|upgrade_bonus",
+        "count": 3
+      },
+      {
+        "key": "it_transf_count|ls_rc_duration|ls_rc_start|ptn|qlt|upgrade_bonus",
+        "count": 3
+      },
+      {
+        "key": "md_k|ndmg|qlt|upgrade_bonus",
+        "count": 3
+      },
+      {
+        "key": "bonus_properties|compens_2026_owner|compens_2026_ptn|it_transf_count|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|compens_2026_owner|compens_2026_ptn|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ls_rc_duration|ls_rc_start|md_k|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|ls_rc_duration|ls_rc_start|md_k|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|ls_rc_duration|ls_rc_start|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|md_k|ndmg|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "it_transf_count|ls_rc_duration|ls_rc_start|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "it_transf_count|ndmg|qlt|stats_random|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "ndmg|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|compens_2026_owner|compens_2026_ptn|it_transf_count|md_k|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "bonus_properties|compens_2026_owner|compens_2026_ptn|it_transf_count|ptn|qlt|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ls_rc_duration|ls_rc_start|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "bonus_properties|ls_rc_duration|ls_rc_start|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "it_transf_count|ndmg|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "it_transf_count|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "md_k|ndmg|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "ndmg|ptn|qlt|upgrade_bonus",
+        "count": 1
+      }
+    ],
+    "upgradeBonusCounts": [
+      {
+        "key": "0",
+        "count": 5114
+      },
+      {
+        "key": "0.0017",
+        "count": 42
+      },
+      {
+        "key": "0.0034",
+        "count": 18
+      },
+      {
+        "key": "0.0042",
+        "count": 17
+      },
+      {
+        "key": "0.0084",
+        "count": 14
+      },
+      {
+        "key": "0.0051",
+        "count": 7
+      },
+      {
+        "key": "0.012599999",
+        "count": 6
+      },
+      {
+        "key": "0.002",
+        "count": 4
+      },
+      {
+        "key": "0.0033",
+        "count": 4
+      },
+      {
+        "key": "0.0102",
+        "count": 4
+      },
+      {
+        "key": "0.0168",
+        "count": 4
+      },
+      {
+        "key": "0.001764",
+        "count": 3
+      },
+      {
+        "key": "0.004032",
+        "count": 3
+      },
+      {
+        "key": "0.006",
+        "count": 3
+      },
+      {
+        "key": "0.0066",
+        "count": 3
+      },
+      {
+        "key": "0.0068",
+        "count": 3
+      },
+      {
+        "key": "0.008400001",
+        "count": 3
+      },
+      {
+        "key": "0.012000001",
+        "count": 3
+      },
+      {
+        "key": "0.016320001",
+        "count": 3
+      },
+      {
+        "key": "0.0198",
+        "count": 3
+      },
+      {
+        "key": "0.025199998",
+        "count": 3
+      },
+      {
+        "key": "0.0012",
+        "count": 2
+      },
+      {
+        "key": "0.00144",
+        "count": 2
+      },
+      {
+        "key": "0.00153",
+        "count": 2
+      },
+      {
+        "key": "0.002074",
+        "count": 2
+      },
+      {
+        "key": "0.0021600001",
+        "count": 2
+      },
+      {
+        "key": "0.0024",
+        "count": 2
+      },
+      {
+        "key": "0.0028",
+        "count": 2
+      },
+      {
+        "key": "0.002940003",
+        "count": 2
+      },
+      {
+        "key": "0.0030599996",
+        "count": 2
+      },
+      {
+        "key": "0.0031620003",
+        "count": 2
+      },
+      {
+        "key": "0.0039480003",
+        "count": 2
+      },
+      {
+        "key": "0.00459",
+        "count": 2
+      },
+      {
+        "key": "0.0048",
+        "count": 2
+      },
+      {
+        "key": "0.004896",
+        "count": 2
+      },
+      {
+        "key": "0.004998",
+        "count": 2
+      },
+      {
+        "key": "0.0056",
+        "count": 2
+      },
+      {
+        "key": "0.005796",
+        "count": 2
+      },
+      {
+        "key": "0.00646",
+        "count": 2
+      },
+      {
+        "key": "0.0066360002",
+        "count": 2
+      },
+      {
+        "key": "0.006936",
+        "count": 2
+      },
+      {
+        "key": "0.006972",
+        "count": 2
+      },
+      {
+        "key": "0.0071400004",
+        "count": 2
+      },
+      {
+        "key": "0.008",
+        "count": 2
+      },
+      {
+        "key": "0.0085",
+        "count": 2
+      },
+      {
+        "key": "0.00894",
+        "count": 2
+      },
+      {
+        "key": "0.009282",
+        "count": 2
+      },
+      {
+        "key": "0.009486",
+        "count": 2
+      },
+      {
+        "key": "0.0100799985",
+        "count": 2
+      },
+      {
+        "key": "0.010836",
+        "count": 2
+      },
+      {
+        "key": "0.0119",
+        "count": 2
+      },
+      {
+        "key": "0.012",
+        "count": 2
+      },
+      {
+        "key": "0.012180006",
+        "count": 2
+      },
+      {
+        "key": "0.0132",
+        "count": 2
+      },
+      {
+        "key": "0.0139999995",
+        "count": 2
+      },
+      {
+        "key": "0.016799998",
+        "count": 2
+      },
+      {
+        "key": "0.017",
+        "count": 2
+      },
+      {
+        "key": "0.018700002",
+        "count": 2
+      },
+      {
+        "key": "0.021",
+        "count": 2
+      },
+      {
+        "key": "0.021599999",
+        "count": 2
+      },
+      {
+        "key": "0.022704",
+        "count": 2
+      },
+      {
+        "key": "0.0231",
+        "count": 2
+      },
+      {
+        "key": "0.023800004",
+        "count": 2
+      },
+      {
+        "key": "0.026399998",
+        "count": 2
+      },
+      {
+        "key": "0.036",
+        "count": 2
+      },
+      {
+        "key": "0.0504",
+        "count": 2
+      },
+      {
+        "key": "0.057120014",
+        "count": 2
+      },
+      {
+        "key": "0.057816006",
+        "count": 2
+      },
+      {
+        "key": "0.12240001",
+        "count": 2
+      },
+      {
+        "key": "0.00068",
+        "count": 1
+      },
+      {
+        "key": "0.00078200066",
+        "count": 1
+      },
+      {
+        "key": "0.0007820029",
+        "count": 1
+      },
+      {
+        "key": "0.00091800076",
+        "count": 1
+      },
+      {
+        "key": "0.001034",
+        "count": 1
+      },
+      {
+        "key": "0.0010709998",
+        "count": 1
+      },
+      {
+        "key": "0.001071",
+        "count": 1
+      },
+      {
+        "key": "0.001088",
+        "count": 1
+      },
+      {
+        "key": "0.0012154989",
+        "count": 1
+      },
+      {
+        "key": "0.001428",
+        "count": 1
+      },
+      {
+        "key": "0.0014280006",
+        "count": 1
+      },
+      {
+        "key": "0.0014620014",
+        "count": 1
+      },
+      {
+        "key": "0.00147",
+        "count": 1
+      },
+      {
+        "key": "0.001496",
+        "count": 1
+      },
+      {
+        "key": "0.0014960021",
+        "count": 1
+      },
+      {
+        "key": "0.0015",
+        "count": 1
+      },
+      {
+        "key": "0.0015509997",
+        "count": 1
+      },
+      {
+        "key": "0.0016000001",
+        "count": 1
+      },
+      {
+        "key": "0.001632",
+        "count": 1
+      },
+      {
+        "key": "0.0016320006",
+        "count": 1
+      },
+      {
+        "key": "0.0016650022",
+        "count": 1
+      },
+      {
+        "key": "0.0017340009",
+        "count": 1
+      },
+      {
+        "key": "0.0017360006",
+        "count": 1
+      },
+      {
+        "key": "0.0017760001",
+        "count": 1
+      },
+      {
+        "key": "0.0018700038",
+        "count": 1
+      },
+      {
+        "key": "0.0019719999",
+        "count": 1
+      },
+      {
+        "key": "0.00201",
+        "count": 1
+      },
+      {
+        "key": "0.0021080007",
+        "count": 1
+      },
+      {
+        "key": "0.002210001",
+        "count": 1
+      },
+      {
+        "key": "0.002261001",
+        "count": 1
+      },
+      {
+        "key": "0.0022679996",
+        "count": 1
+      },
+      {
+        "key": "0.002295",
+        "count": 1
+      },
+      {
+        "key": "0.002320015",
+        "count": 1
+      },
+      {
+        "key": "0.0024140002",
+        "count": 1
+      },
+      {
+        "key": "0.0024360006",
+        "count": 1
+      },
+      {
+        "key": "0.0024480026",
+        "count": 1
+      },
+      {
+        "key": "0.0024819998",
+        "count": 1
+      },
+      {
+        "key": "0.0024820059",
+        "count": 1
+      },
+      {
+        "key": "0.0025079944",
+        "count": 1
+      },
+      {
+        "key": "0.0025160038",
+        "count": 1
+      },
+      {
+        "key": "0.0025479998",
+        "count": 1
+      },
+      {
+        "key": "0.0025480015",
+        "count": 1
+      },
+      {
+        "key": "0.002595",
+        "count": 1
+      },
+      {
+        "key": "0.0027200002",
+        "count": 1
+      },
+      {
+        "key": "0.0028140014",
+        "count": 1
+      },
+      {
+        "key": "0.002822",
+        "count": 1
+      },
+      {
+        "key": "0.0028559996",
+        "count": 1
+      },
+      {
+        "key": "0.0028559999",
+        "count": 1
+      },
+      {
+        "key": "0.0028900001",
+        "count": 1
+      },
+      {
+        "key": "0.0028980006",
+        "count": 1
+      },
+      {
+        "key": "0.0029",
+        "count": 1
+      },
+      {
+        "key": "0.00297",
+        "count": 1
+      },
+      {
+        "key": "0.003",
+        "count": 1
+      },
+      {
+        "key": "0.003024",
+        "count": 1
+      },
+      {
+        "key": "0.0030240018",
+        "count": 1
+      },
+      {
+        "key": "0.003026",
+        "count": 1
+      },
+      {
+        "key": "0.003094",
+        "count": 1
+      },
+      {
+        "key": "0.0031080004",
+        "count": 1
+      },
+      {
+        "key": "0.0031499998",
+        "count": 1
+      },
+      {
+        "key": "0.0031919999",
+        "count": 1
+      },
+      {
+        "key": "0.003192",
+        "count": 1
+      },
+      {
+        "key": "0.00323",
+        "count": 1
+      },
+      {
+        "key": "0.0032300025",
+        "count": 1
+      },
+      {
+        "key": "0.003276",
+        "count": 1
+      },
+      {
+        "key": "0.0033200001",
+        "count": 1
+      },
+      {
+        "key": "0.003366",
+        "count": 1
+      },
+      {
+        "key": "0.0034439997",
+        "count": 1
+      },
+      {
+        "key": "0.0034440001",
+        "count": 1
+      },
+      {
+        "key": "0.003465001",
+        "count": 1
+      },
+      {
+        "key": "0.0035279999",
+        "count": 1
+      },
+      {
+        "key": "0.003672",
+        "count": 1
+      },
+      {
+        "key": "0.003672063",
+        "count": 1
+      },
+      {
+        "key": "0.0036959997",
+        "count": 1
+      },
+      {
+        "key": "0.003757004",
+        "count": 1
+      },
+      {
+        "key": "0.0037799997",
+        "count": 1
+      },
+      {
+        "key": "0.0037800013",
+        "count": 1
+      },
+      {
+        "key": "0.0037800116",
+        "count": 1
+      },
+      {
+        "key": "0.0038639999",
+        "count": 1
+      },
+      {
+        "key": "0.003864",
+        "count": 1
+      },
+      {
+        "key": "0.0038760037",
+        "count": 1
+      },
+      {
+        "key": "0.0038999994",
+        "count": 1
+      },
+      {
+        "key": "0.003948",
+        "count": 1
+      },
+      {
+        "key": "0.004",
+        "count": 1
+      },
+      {
+        "key": "0.004009502",
+        "count": 1
+      },
+      {
+        "key": "0.004080003",
+        "count": 1
+      },
+      {
+        "key": "0.004092",
+        "count": 1
+      },
+      {
+        "key": "0.0041759997",
+        "count": 1
+      },
+      {
+        "key": "0.004250002",
+        "count": 1
+      },
+      {
+        "key": "0.0042712484",
+        "count": 1
+      },
+      {
+        "key": "0.004283999",
+        "count": 1
+      },
+      {
+        "key": "0.0044",
+        "count": 1
+      },
+      {
+        "key": "0.0045",
+        "count": 1
+      },
+      {
+        "key": "0.0045050033",
+        "count": 1
+      },
+      {
+        "key": "0.00462",
+        "count": 1
+      },
+      {
+        "key": "0.004751997",
+        "count": 1
+      },
+      {
+        "key": "0.004787999",
+        "count": 1
+      },
+      {
+        "key": "0.0047939997",
+        "count": 1
+      },
+      {
+        "key": "0.0048000007",
+        "count": 1
+      },
+      {
+        "key": "0.004828",
+        "count": 1
+      },
+      {
+        "key": "0.004862",
+        "count": 1
+      },
+      {
+        "key": "0.0049500056",
+        "count": 1
+      },
+      {
+        "key": "0.0049560033",
+        "count": 1
+      },
+      {
+        "key": "0.005208",
+        "count": 1
+      },
+      {
+        "key": "0.0052080206",
+        "count": 1
+      },
+      {
+        "key": "0.005214",
+        "count": 1
+      },
+      {
+        "key": "0.0053720027",
+        "count": 1
+      },
+      {
+        "key": "0.005376002",
+        "count": 1
+      },
+      {
+        "key": "0.0056440006",
+        "count": 1
+      },
+      {
+        "key": "0.005704",
+        "count": 1
+      },
+      {
+        "key": "0.0060300003",
+        "count": 1
+      },
+      {
+        "key": "0.0061880006",
+        "count": 1
+      },
+      {
+        "key": "0.0061920006",
+        "count": 1
+      },
+      {
+        "key": "0.0062",
+        "count": 1
+      },
+      {
+        "key": "0.006300003",
+        "count": 1
+      },
+      {
+        "key": "0.0063240025",
+        "count": 1
+      },
+      {
+        "key": "0.006443",
+        "count": 1
+      },
+      {
+        "key": "0.0065799993",
+        "count": 1
+      },
+      {
+        "key": "0.0066299997",
+        "count": 1
+      },
+      {
+        "key": "0.0068040024",
+        "count": 1
+      },
+      {
+        "key": "0.00696",
+        "count": 1
+      },
+      {
+        "key": "0.0072000003",
+        "count": 1
+      },
+      {
+        "key": "0.007224003",
+        "count": 1
+      },
+      {
+        "key": "0.0072600027",
+        "count": 1
+      },
+      {
+        "key": "0.007293",
+        "count": 1
+      },
+      {
+        "key": "0.007308",
+        "count": 1
+      },
+      {
+        "key": "0.007392015",
+        "count": 1
+      },
+      {
+        "key": "0.007475999",
+        "count": 1
+      },
+      {
+        "key": "0.0074760006",
+        "count": 1
+      },
+      {
+        "key": "0.0075000003",
+        "count": 1
+      },
+      {
+        "key": "0.00756",
+        "count": 1
+      },
+      {
+        "key": "0.0076439995",
+        "count": 1
+      }
+    ],
+    "qltCounts": {
+      "0": 850,
+      "1": 1070,
+      "2": 1791,
+      "3": 1636,
+      "4": 701,
+      "5": 218
+    },
+    "ptnCounts": [
+      {
+        "key": "15",
+        "count": 1933
+      },
+      {
+        "key": "0",
+        "count": 408
+      },
+      {
+        "key": "10",
+        "count": 298
+      },
+      {
+        "key": "5",
+        "count": 242
+      },
+      {
+        "key": "6",
+        "count": 57
+      },
+      {
+        "key": "11",
+        "count": 55
+      },
+      {
+        "key": "8",
+        "count": 39
+      },
+      {
+        "key": "7",
+        "count": 38
+      },
+      {
+        "key": "12",
+        "count": 33
+      },
+      {
+        "key": "4",
+        "count": 32
+      },
+      {
+        "key": "9",
+        "count": 28
+      },
+      {
+        "key": "2",
+        "count": 27
+      },
+      {
+        "key": "3",
+        "count": 27
+      },
+      {
+        "key": "13",
+        "count": 25
+      },
+      {
+        "key": "1",
+        "count": 18
+      },
+      {
+        "key": "14",
+        "count": 13
+      }
+    ]
+  },
+  "rawAdditional": {
+    "rawRowsInspected": 21272,
+    "rawAdditionalCount": 21272,
+    "additionalKeyCounts": {
+      "bonus_properties": 3265,
+      "ndmg": 2159,
+      "it_transf_count": 4911,
+      "qlt": 21034,
+      "ptn": 3355,
+      "upgrade_bonus": 21272,
+      "spawn_time": 18184,
+      "md_k": 446,
+      "stats_random": 1558,
+      "ls_rc_start": 49,
+      "ls_rc_duration": 49,
+      "compens_2026_owner": 6,
+      "compens_2026_ptn": 6
+    },
+    "additionalFingerprints": [
+      {
+        "key": "qlt|spawn_time|upgrade_bonus",
+        "count": 12888
+      },
+      {
+        "key": "qlt|upgrade_bonus",
+        "count": 1654
+      },
+      {
+        "key": "it_transf_count|qlt|spawn_time|upgrade_bonus",
+        "count": 1342
+      },
+      {
+        "key": "qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 987
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 973
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 782
+      },
+      {
+        "key": "it_transf_count|qlt|upgrade_bonus",
+        "count": 392
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 283
+      },
+      {
+        "key": "bonus_properties|it_transf_count|md_k|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 255
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ptn|qlt|upgrade_bonus",
+        "count": 217
+      },
+      {
+        "key": "it_transf_count|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 202
+      },
+      {
+        "key": "upgrade_bonus",
+        "count": 170
+      },
+      {
+        "key": "bonus_properties|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 143
+      },
+      {
+        "key": "bonus_properties|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 132
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ndmg|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 84
+      },
+      {
+        "key": "it_transf_count|ndmg|qlt|spawn_time|upgrade_bonus",
+        "count": 70
+      },
+      {
+        "key": "bonus_properties|md_k|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 67
+      },
+      {
+        "key": "qlt|stats_random|upgrade_bonus",
+        "count": 60
+      },
+      {
+        "key": "stats_random|upgrade_bonus",
+        "count": 59
+      },
+      {
+        "key": "bonus_properties|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 55
+      },
+      {
+        "key": "bonus_properties|ptn|qlt|upgrade_bonus",
+        "count": 47
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 45
+      },
+      {
+        "key": "bonus_properties|it_transf_count|md_k|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 42
+      },
+      {
+        "key": "it_transf_count|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 28
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ndmg|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 24
+      },
+      {
+        "key": "it_transf_count|qlt|stats_random|upgrade_bonus",
+        "count": 24
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ls_rc_duration|ls_rc_start|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 19
+      },
+      {
+        "key": "bonus_properties|it_transf_count|md_k|ndmg|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 18
+      },
+      {
+        "key": "it_transf_count|md_k|ndmg|qlt|spawn_time|upgrade_bonus",
+        "count": 18
+      },
+      {
+        "key": "bonus_properties|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 16
+      },
+      {
+        "key": "it_transf_count|md_k|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 14
+      },
+      {
+        "key": "it_transf_count|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 14
+      },
+      {
+        "key": "ndmg|qlt|spawn_time|upgrade_bonus",
+        "count": 14
+      },
+      {
+        "key": "bonus_properties|md_k|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 11
+      },
+      {
+        "key": "bonus_properties|ndmg|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 11
+      },
+      {
+        "key": "it_transf_count|ndmg|qlt|upgrade_bonus",
+        "count": 11
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ls_rc_duration|ls_rc_start|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 10
+      },
+      {
+        "key": "ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 7
+      },
+      {
+        "key": "ndmg|qlt|upgrade_bonus",
+        "count": 6
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 5
+      },
+      {
+        "key": "bonus_properties|ls_rc_duration|ls_rc_start|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 4
+      },
+      {
+        "key": "it_transf_count|md_k|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 4
+      },
+      {
+        "key": "it_transf_count|ptn|qlt|upgrade_bonus",
+        "count": 4
+      },
+      {
+        "key": "it_transf_count|upgrade_bonus",
+        "count": 4
+      },
+      {
+        "key": "ndmg|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 4
+      },
+      {
+        "key": "it_transf_count|ls_rc_duration|ls_rc_start|ndmg|qlt|spawn_time|upgrade_bonus",
+        "count": 3
+      },
+      {
+        "key": "it_transf_count|ls_rc_duration|ls_rc_start|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 3
+      },
+      {
+        "key": "it_transf_count|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 3
+      },
+      {
+        "key": "it_transf_count|stats_random|upgrade_bonus",
+        "count": 3
+      },
+      {
+        "key": "md_k|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 3
+      },
+      {
+        "key": "md_k|ndmg|qlt|spawn_time|upgrade_bonus",
+        "count": 3
+      },
+      {
+        "key": "bonus_properties|compens_2026_owner|compens_2026_ptn|it_transf_count|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|compens_2026_owner|compens_2026_ptn|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ls_rc_duration|ls_rc_start|md_k|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|it_transf_count|md_k|ndmg|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|ls_rc_duration|ls_rc_start|md_k|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|ls_rc_duration|ls_rc_start|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|md_k|ndmg|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|ptn|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "it_transf_count|ls_rc_duration|ls_rc_start|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "ndmg|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 2
+      },
+      {
+        "key": "bonus_properties|compens_2026_owner|compens_2026_ptn|it_transf_count|md_k|ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "bonus_properties|compens_2026_owner|compens_2026_ptn|it_transf_count|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "bonus_properties|it_transf_count|ls_rc_duration|ls_rc_start|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "bonus_properties|ls_rc_duration|ls_rc_start|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "bonus_properties|ndmg|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "bonus_properties|ptn|qlt|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "it_transf_count|ndmg|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "it_transf_count|ndmg|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "it_transf_count|ndmg|qlt|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "it_transf_count|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "md_k|ndmg|ptn|qlt|spawn_time|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "md_k|ndmg|ptn|qlt|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "ndmg|ptn|qlt|spawn_time|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "ndmg|qlt|stats_random|upgrade_bonus",
+        "count": 1
+      },
+      {
+        "key": "ptn|qlt|upgrade_bonus",
+        "count": 1
+      }
+    ],
+    "upgradeBonusCounts": [
+      {
+        "key": "0",
+        "count": 20629
+      },
+      {
+        "key": "0.0017",
+        "count": 43
+      },
+      {
+        "key": "0.0034",
+        "count": 19
+      },
+      {
+        "key": "0.0042",
+        "count": 18
+      },
+      {
+        "key": "0.0084",
+        "count": 14
+      },
+      {
+        "key": "0.0051",
+        "count": 7
+      },
+      {
+        "key": "0.012599999",
+        "count": 6
+      },
+      {
+        "key": "0.002",
+        "count": 4
+      },
+      {
+        "key": "0.0033",
+        "count": 4
+      },
+      {
+        "key": "0.006",
+        "count": 4
+      },
+      {
+        "key": "0.0102",
+        "count": 4
+      },
+      {
+        "key": "0.0168",
+        "count": 4
+      },
+      {
+        "key": "0.001764",
+        "count": 3
+      },
+      {
+        "key": "0.004032",
+        "count": 3
+      },
+      {
+        "key": "0.0066",
+        "count": 3
+      },
+      {
+        "key": "0.0068",
+        "count": 3
+      },
+      {
+        "key": "0.008400001",
+        "count": 3
+      },
+      {
+        "key": "0.012000001",
+        "count": 3
+      },
+      {
+        "key": "0.016320001",
+        "count": 3
+      },
+      {
+        "key": "0.0198",
+        "count": 3
+      },
+      {
+        "key": "0.025199998",
+        "count": 3
+      },
+      {
+        "key": "0.0012",
+        "count": 2
+      },
+      {
+        "key": "0.00144",
+        "count": 2
+      },
+      {
+        "key": "0.00153",
+        "count": 2
+      },
+      {
+        "key": "0.002074",
+        "count": 2
+      },
+      {
+        "key": "0.0021600001",
+        "count": 2
+      },
+      {
+        "key": "0.0024",
+        "count": 2
+      },
+      {
+        "key": "0.0028",
+        "count": 2
+      },
+      {
+        "key": "0.002940003",
+        "count": 2
+      },
+      {
+        "key": "0.0030599996",
+        "count": 2
+      },
+      {
+        "key": "0.0031620003",
+        "count": 2
+      },
+      {
+        "key": "0.0039480003",
+        "count": 2
+      },
+      {
+        "key": "0.00459",
+        "count": 2
+      },
+      {
+        "key": "0.0048",
+        "count": 2
+      },
+      {
+        "key": "0.004896",
+        "count": 2
+      },
+      {
+        "key": "0.004998",
+        "count": 2
+      },
+      {
+        "key": "0.0056",
+        "count": 2
+      },
+      {
+        "key": "0.005796",
+        "count": 2
+      },
+      {
+        "key": "0.00646",
+        "count": 2
+      },
+      {
+        "key": "0.0066360002",
+        "count": 2
+      },
+      {
+        "key": "0.006936",
+        "count": 2
+      },
+      {
+        "key": "0.006972",
+        "count": 2
+      },
+      {
+        "key": "0.0071400004",
+        "count": 2
+      },
+      {
+        "key": "0.007293",
+        "count": 2
+      },
+      {
+        "key": "0.008",
+        "count": 2
+      },
+      {
+        "key": "0.0085",
+        "count": 2
+      },
+      {
+        "key": "0.00894",
+        "count": 2
+      },
+      {
+        "key": "0.009282",
+        "count": 2
+      },
+      {
+        "key": "0.009486",
+        "count": 2
+      },
+      {
+        "key": "0.0100799985",
+        "count": 2
+      },
+      {
+        "key": "0.010836",
+        "count": 2
+      },
+      {
+        "key": "0.0119",
+        "count": 2
+      },
+      {
+        "key": "0.012",
+        "count": 2
+      },
+      {
+        "key": "0.012180006",
+        "count": 2
+      },
+      {
+        "key": "0.0132",
+        "count": 2
+      },
+      {
+        "key": "0.0139999995",
+        "count": 2
+      },
+      {
+        "key": "0.016799998",
+        "count": 2
+      },
+      {
+        "key": "0.017",
+        "count": 2
+      },
+      {
+        "key": "0.018700002",
+        "count": 2
+      },
+      {
+        "key": "0.021",
+        "count": 2
+      },
+      {
+        "key": "0.021599999",
+        "count": 2
+      },
+      {
+        "key": "0.022704",
+        "count": 2
+      },
+      {
+        "key": "0.0231",
+        "count": 2
+      },
+      {
+        "key": "0.023800004",
+        "count": 2
+      },
+      {
+        "key": "0.026399998",
+        "count": 2
+      },
+      {
+        "key": "0.036",
+        "count": 2
+      },
+      {
+        "key": "0.0504",
+        "count": 2
+      },
+      {
+        "key": "0.057120014",
+        "count": 2
+      },
+      {
+        "key": "0.057816006",
+        "count": 2
+      },
+      {
+        "key": "0.058652002",
+        "count": 2
+      },
+      {
+        "key": "0.12240001",
+        "count": 2
+      },
+      {
+        "key": "0.00068",
+        "count": 1
+      },
+      {
+        "key": "0.00078200066",
+        "count": 1
+      },
+      {
+        "key": "0.0007820029",
+        "count": 1
+      },
+      {
+        "key": "0.00091800076",
+        "count": 1
+      },
+      {
+        "key": "0.001034",
+        "count": 1
+      },
+      {
+        "key": "0.0010709998",
+        "count": 1
+      },
+      {
+        "key": "0.001071",
+        "count": 1
+      },
+      {
+        "key": "0.001088",
+        "count": 1
+      },
+      {
+        "key": "0.0012154989",
+        "count": 1
+      },
+      {
+        "key": "0.001428",
+        "count": 1
+      },
+      {
+        "key": "0.0014280006",
+        "count": 1
+      },
+      {
+        "key": "0.0014620014",
+        "count": 1
+      },
+      {
+        "key": "0.00147",
+        "count": 1
+      },
+      {
+        "key": "0.001496",
+        "count": 1
+      },
+      {
+        "key": "0.0014960021",
+        "count": 1
+      },
+      {
+        "key": "0.0015",
+        "count": 1
+      },
+      {
+        "key": "0.0015509997",
+        "count": 1
+      },
+      {
+        "key": "0.0016000001",
+        "count": 1
+      },
+      {
+        "key": "0.001632",
+        "count": 1
+      },
+      {
+        "key": "0.0016320006",
+        "count": 1
+      },
+      {
+        "key": "0.0016650022",
+        "count": 1
+      },
+      {
+        "key": "0.0017340009",
+        "count": 1
+      },
+      {
+        "key": "0.0017360006",
+        "count": 1
+      },
+      {
+        "key": "0.0017760001",
+        "count": 1
+      },
+      {
+        "key": "0.0018700038",
+        "count": 1
+      },
+      {
+        "key": "0.0019719999",
+        "count": 1
+      },
+      {
+        "key": "0.00201",
+        "count": 1
+      },
+      {
+        "key": "0.0021080007",
+        "count": 1
+      },
+      {
+        "key": "0.002210001",
+        "count": 1
+      },
+      {
+        "key": "0.002261001",
+        "count": 1
+      },
+      {
+        "key": "0.0022679996",
+        "count": 1
+      },
+      {
+        "key": "0.002295",
+        "count": 1
+      },
+      {
+        "key": "0.002320015",
+        "count": 1
+      },
+      {
+        "key": "0.0024140002",
+        "count": 1
+      },
+      {
+        "key": "0.0024360006",
+        "count": 1
+      },
+      {
+        "key": "0.0024480026",
+        "count": 1
+      },
+      {
+        "key": "0.0024819998",
+        "count": 1
+      },
+      {
+        "key": "0.0024820059",
+        "count": 1
+      },
+      {
+        "key": "0.0025079944",
+        "count": 1
+      },
+      {
+        "key": "0.0025160038",
+        "count": 1
+      },
+      {
+        "key": "0.0025479998",
+        "count": 1
+      },
+      {
+        "key": "0.0025480015",
+        "count": 1
+      },
+      {
+        "key": "0.002595",
+        "count": 1
+      },
+      {
+        "key": "0.0027200002",
+        "count": 1
+      },
+      {
+        "key": "0.0028140014",
+        "count": 1
+      },
+      {
+        "key": "0.002822",
+        "count": 1
+      },
+      {
+        "key": "0.0028559996",
+        "count": 1
+      },
+      {
+        "key": "0.0028559999",
+        "count": 1
+      },
+      {
+        "key": "0.0028900001",
+        "count": 1
+      },
+      {
+        "key": "0.0028980006",
+        "count": 1
+      },
+      {
+        "key": "0.0029",
+        "count": 1
+      },
+      {
+        "key": "0.00297",
+        "count": 1
+      },
+      {
+        "key": "0.003",
+        "count": 1
+      },
+      {
+        "key": "0.003024",
+        "count": 1
+      },
+      {
+        "key": "0.0030240018",
+        "count": 1
+      },
+      {
+        "key": "0.003026",
+        "count": 1
+      },
+      {
+        "key": "0.003094",
+        "count": 1
+      },
+      {
+        "key": "0.0031080004",
+        "count": 1
+      },
+      {
+        "key": "0.0031499998",
+        "count": 1
+      },
+      {
+        "key": "0.0031919999",
+        "count": 1
+      },
+      {
+        "key": "0.003192",
+        "count": 1
+      },
+      {
+        "key": "0.00323",
+        "count": 1
+      },
+      {
+        "key": "0.0032300025",
+        "count": 1
+      },
+      {
+        "key": "0.003276",
+        "count": 1
+      },
+      {
+        "key": "0.0033200001",
+        "count": 1
+      },
+      {
+        "key": "0.003366",
+        "count": 1
+      },
+      {
+        "key": "0.0034439997",
+        "count": 1
+      },
+      {
+        "key": "0.0034440001",
+        "count": 1
+      },
+      {
+        "key": "0.003465001",
+        "count": 1
+      },
+      {
+        "key": "0.0035279999",
+        "count": 1
+      },
+      {
+        "key": "0.003672",
+        "count": 1
+      },
+      {
+        "key": "0.003672063",
+        "count": 1
+      },
+      {
+        "key": "0.0036959997",
+        "count": 1
+      },
+      {
+        "key": "0.003757004",
+        "count": 1
+      },
+      {
+        "key": "0.0037799997",
+        "count": 1
+      },
+      {
+        "key": "0.0037800013",
+        "count": 1
+      },
+      {
+        "key": "0.0037800116",
+        "count": 1
+      },
+      {
+        "key": "0.0038639999",
+        "count": 1
+      },
+      {
+        "key": "0.003864",
+        "count": 1
+      },
+      {
+        "key": "0.0038760037",
+        "count": 1
+      },
+      {
+        "key": "0.0038999994",
+        "count": 1
+      },
+      {
+        "key": "0.003948",
+        "count": 1
+      },
+      {
+        "key": "0.004",
+        "count": 1
+      },
+      {
+        "key": "0.004009502",
+        "count": 1
+      },
+      {
+        "key": "0.004080003",
+        "count": 1
+      },
+      {
+        "key": "0.004092",
+        "count": 1
+      },
+      {
+        "key": "0.0041759997",
+        "count": 1
+      },
+      {
+        "key": "0.004250002",
+        "count": 1
+      },
+      {
+        "key": "0.0042712484",
+        "count": 1
+      },
+      {
+        "key": "0.004283999",
+        "count": 1
+      },
+      {
+        "key": "0.0044",
+        "count": 1
+      },
+      {
+        "key": "0.0045",
+        "count": 1
+      },
+      {
+        "key": "0.0045050033",
+        "count": 1
+      },
+      {
+        "key": "0.00462",
+        "count": 1
+      },
+      {
+        "key": "0.004751997",
+        "count": 1
+      },
+      {
+        "key": "0.004787999",
+        "count": 1
+      },
+      {
+        "key": "0.0047939997",
+        "count": 1
+      },
+      {
+        "key": "0.0048000007",
+        "count": 1
+      },
+      {
+        "key": "0.004828",
+        "count": 1
+      },
+      {
+        "key": "0.004862",
+        "count": 1
+      },
+      {
+        "key": "0.0049500056",
+        "count": 1
+      },
+      {
+        "key": "0.0049560033",
+        "count": 1
+      },
+      {
+        "key": "0.005208",
+        "count": 1
+      },
+      {
+        "key": "0.0052080206",
+        "count": 1
+      },
+      {
+        "key": "0.005214",
+        "count": 1
+      },
+      {
+        "key": "0.0053720027",
+        "count": 1
+      },
+      {
+        "key": "0.005376002",
+        "count": 1
+      },
+      {
+        "key": "0.0056440006",
+        "count": 1
+      },
+      {
+        "key": "0.005704",
+        "count": 1
+      },
+      {
+        "key": "0.0060300003",
+        "count": 1
+      },
+      {
+        "key": "0.0061880006",
+        "count": 1
+      },
+      {
+        "key": "0.0061920006",
+        "count": 1
+      },
+      {
+        "key": "0.0062",
+        "count": 1
+      },
+      {
+        "key": "0.006300003",
+        "count": 1
+      },
+      {
+        "key": "0.0063240025",
+        "count": 1
+      },
+      {
+        "key": "0.006443",
+        "count": 1
+      },
+      {
+        "key": "0.0065799993",
+        "count": 1
+      },
+      {
+        "key": "0.0066299997",
+        "count": 1
+      },
+      {
+        "key": "0.0068040024",
+        "count": 1
+      },
+      {
+        "key": "0.00696",
+        "count": 1
+      },
+      {
+        "key": "0.0072000003",
+        "count": 1
+      },
+      {
+        "key": "0.007224003",
+        "count": 1
+      },
+      {
+        "key": "0.0072600027",
+        "count": 1
+      },
+      {
+        "key": "0.007308",
+        "count": 1
+      },
+      {
+        "key": "0.007392015",
+        "count": 1
+      },
+      {
+        "key": "0.007475999",
+        "count": 1
+      },
+      {
+        "key": "0.0074760006",
+        "count": 1
+      },
+      {
+        "key": "0.0075000003",
+        "count": 1
+      },
+      {
+        "key": "0.00756",
+        "count": 1
+      }
+    ],
+    "qltCounts": {
+      "0": 3959,
+      "1": 4944,
+      "2": 6043,
+      "3": 4655,
+      "4": 1246,
+      "5": 187
+    },
+    "ptnCounts": [
+      {
+        "key": "15",
+        "count": 2419
+      },
+      {
+        "key": "10",
+        "count": 304
+      },
+      {
+        "key": "5",
+        "count": 251
+      },
+      {
+        "key": "6",
+        "count": 58
+      },
+      {
+        "key": "11",
+        "count": 56
+      },
+      {
+        "key": "8",
+        "count": 39
+      },
+      {
+        "key": "7",
+        "count": 38
+      },
+      {
+        "key": "12",
+        "count": 34
+      },
+      {
+        "key": "4",
+        "count": 29
+      },
+      {
+        "key": "9",
+        "count": 28
+      },
+      {
+        "key": "13",
+        "count": 25
+      },
+      {
+        "key": "3",
+        "count": 24
+      },
+      {
+        "key": "2",
+        "count": 23
+      },
+      {
+        "key": "1",
+        "count": 14
+      },
+      {
+        "key": "14",
+        "count": 13
+      }
+    ]
+  },
+  "mappingAssessment": {
+    "optimizerExactCurrentlySafe": "Rows with lossless optimizer key fields and upgrade_bonus=0 only.",
+    "unsafeUntilProven": [
+      "nonzero upgrade_bonus",
+      "bonus_properties",
+      "md_k",
+      "ndmg",
+      "stats_random",
+      "event/compensation fields",
+      "other source-only fingerprints"
+    ],
+    "note": "This report is descriptive. Promotion to optimizer-exact still requires code-level proof and tests."
+  }
+}
