@@ -1,0 +1,13 @@
+{
+  "name": "@ultimatebuild/discord-bot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "start": "node --import tsx src/index.ts"
+  },
+  "dependencies": {
+    "discord.js": "14.23.2"
+  }
+}

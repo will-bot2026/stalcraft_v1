@@ -11,6 +11,7 @@
     "build": "pnpm web:build && if [ -d apps/web/.vercel/output ]; then rm -rf .vercel/output && mkdir -p .vercel && cp -R apps/web/.vercel/output .vercel/output; fi",
     "web:check": "pnpm --filter @ultimatebuild/web check",
     "web:build": "pnpm --filter @ultimatebuild/web build",
+    "discord:bot": "pnpm --filter @ultimatebuild/discord-bot start",
     "optimize": "tsx apps/cli/src/index.ts",
     "market:pull": "node --import tsx scripts/pull-market.ts",
     "market:pull-chunked": "node --import tsx scripts/pull-market-chunked.ts",
